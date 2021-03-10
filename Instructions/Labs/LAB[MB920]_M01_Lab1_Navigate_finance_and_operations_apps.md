@@ -18,20 +18,6 @@ Now that you've become familiar with finance and operations apps, take some time
 
 ## Instructions
 
-# Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
-
-## Lab 1 - Navigate finance and operations apps
-
-## Objectives
-
-Now that you've become familiar with finance and operations apps, take some time to explore the interface.
-
-## Lab Setup
-
-- **Estimated Time**: 10 minutes
-
-## Instructions
-
 ### Sign in to the Lab computer
 
 1. Sign in to the lab computer using below credentials
