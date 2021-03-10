@@ -18,6 +18,54 @@ Now that you've become familiar with finance and operations apps, take some time
 
 ## Instructions
 
+# Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
+
+## Lab 1 - Navigate finance and operations apps
+
+## Objectives
+
+Now that you've become familiar with finance and operations apps, take some time to explore the interface.
+
+## Lab Setup
+
+- **Estimated Time**: 10 minutes
+
+## Instructions
+
+### Sign in to the Lab computer
+
+1. Sign in to the lab computer using below credentials
+
+    - User Name:
+
+        Paste Content
+
+        Administrator
+
+    - Password:
+
+        Paste Content
+
+        pass@word1
+
+>[!Note] Internet Explorer may automatically open in the desktop. If you have not already completed steps #2-5, please finish them before navigating back to Internet Explorer.
+
+1. Select the **AdminUserProvisioning** file on the desktop.
+
+1. Enter the credentials provided and then select **Submit**.  
+Your credentials can be found in the **Files** menu at the top right corner of the screen.
+
+1. Wait for the script to finish before continuing. This may take 2-3 minutes. Once the script is completed a pop-up box will display to confirm the Admin user has been successfully updated.
+
+1. Select **Ok** to continue.
+
+1. Open **Internet Explorer**.
+
+1. Browse to the given link: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
+
+1. Sign in using the credentials provided in the **Files** menu.
+
+### Navigate finance and operations apps
 1. On the Finance and Operations Home page, if configured, you will see:
 
     - The navigation menu on the left that is collapsed by default.
