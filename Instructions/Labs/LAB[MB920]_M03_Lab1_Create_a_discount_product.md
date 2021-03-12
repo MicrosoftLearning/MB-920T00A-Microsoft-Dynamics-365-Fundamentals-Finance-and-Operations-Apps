@@ -12,7 +12,7 @@ Your company's Boston store is ready to drive sales of some products that need t
 
 ## Lab Setup
 
-    - **Estimated Time**: 10 minutes
+   - **Estimated Time**: 10 minutes
 
 ## Instructions
 
