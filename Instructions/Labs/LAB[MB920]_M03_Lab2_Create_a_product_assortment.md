@@ -12,7 +12,7 @@ You need to create an assortment of related products that are assigned to a spec
 
 ## Lab Setup
 
-    - **Estimated Time**: 10 minutes
+   - **Estimated Time**: 10 minutes
 
 ## Instructions
 
