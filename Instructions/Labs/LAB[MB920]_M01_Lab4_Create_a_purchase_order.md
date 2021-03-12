@@ -14,7 +14,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
 ## Lab Setup
 
-    - **Estimated Time**: 10 minutes
+   - **Estimated Time**: 10 minutes
 
 ## Instructions
 
