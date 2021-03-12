@@ -12,7 +12,7 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 ## Lab Setup
 
-    - **Estimated time**: 30 minutes 
+   - **Estimated time**: 30 minutes 
 
 ## Instructions
 
