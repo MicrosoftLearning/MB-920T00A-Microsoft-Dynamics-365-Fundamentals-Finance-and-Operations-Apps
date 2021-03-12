@@ -14,7 +14,7 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 
 ## Lab Setup
 
-    - **Estimated Time**: 10 minutes
+   - **Estimated Time**: 10 minutes
 
 ## Instructions
 
