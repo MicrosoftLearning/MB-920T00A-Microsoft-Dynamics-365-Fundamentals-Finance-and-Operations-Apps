@@ -16,6 +16,8 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 ## Instructions
 
+## Exercise 1: Explore Commerce Headquarters
+
 ### Create a new store
 
 1. On the landing page, in the top-right, verify the **USRT** company is selected.
