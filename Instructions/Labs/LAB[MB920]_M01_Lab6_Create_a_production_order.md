@@ -14,7 +14,7 @@ You must create a new production order for your company.
 
 ## Lab Setup
 
-    - **Estimated Time**: 5 minutes
+   - **Estimated Time**: 5 minutes
 
 ## Instructions
 
