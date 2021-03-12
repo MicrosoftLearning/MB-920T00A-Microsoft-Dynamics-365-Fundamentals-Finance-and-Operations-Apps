@@ -14,6 +14,8 @@ During this lab, you will explore the onboarding process for a new employee, inc
 
 - **Estimated time**: 20 minutes 
 
+## Exercise 1: Explore Human Resources
+
 ### Create a new hire record
 
 1. Using the navigation pane, select **Modules** > **Human resources** > **Positions** > **Positions**.
