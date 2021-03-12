@@ -14,7 +14,7 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 ## Lab Setup
 
-    - **Estimated Time**: 10 minutes
+   - **Estimated Time**: 10 minutes
 
 ## Instructions
 
