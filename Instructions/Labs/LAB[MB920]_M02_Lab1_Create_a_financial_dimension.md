@@ -14,7 +14,7 @@ You must create a custom financial dimension that will be used by your company.
 
 ## Lab Setup
 
-    - **Estimated Time**: 5 minutes
+   - **Estimated Time**: 5 minutes
 
 ## Instructions
 
