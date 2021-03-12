@@ -20,7 +20,7 @@ Create a new vendor payment journal entry and payment proposal.
 
 ## Lab Setup
 
-    - **Estimated Time**: 10 minutes
+   - **Estimated Time**: 10 minutes
 
 ## Instructions
 
