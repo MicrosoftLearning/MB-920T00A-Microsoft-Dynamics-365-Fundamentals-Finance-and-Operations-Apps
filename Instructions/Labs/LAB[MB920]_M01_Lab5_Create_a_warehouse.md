@@ -21,7 +21,7 @@ To use warehouse management in Supply Chain Management, you must create a wareho
 
 ## Lab Setup
 
-    - **Estimated Time**: 10 minutes
+   - **Estimated Time**: 10 minutes
 
 ## Instructions
 
