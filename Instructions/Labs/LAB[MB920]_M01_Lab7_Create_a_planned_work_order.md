@@ -12,7 +12,7 @@ Maintenance orders placed in the system that describes the maintenance or repair
 
 ## Lab Setup
 
-    - **Estimated Time**: 10 minutes
+   - **Estimated Time**: 10 minutes
 
 ## Instructions
 
