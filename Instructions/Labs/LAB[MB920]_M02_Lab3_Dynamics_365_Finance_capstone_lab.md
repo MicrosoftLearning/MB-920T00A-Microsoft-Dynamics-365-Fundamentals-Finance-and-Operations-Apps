@@ -12,7 +12,7 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 ## Lab Setup
 
-    - **Estimated time**: 45 minutes
+   - **Estimated time**: 45 minutes
 
 ## Exercise 1: Explore the General Ledger
 
