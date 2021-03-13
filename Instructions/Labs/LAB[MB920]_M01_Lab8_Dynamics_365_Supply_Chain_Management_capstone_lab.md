@@ -261,9 +261,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. This tab may already be expanded.
 
-1. Select the **Delivery** tab and, in the **Delivery date** box, use the currently assigned date or enter a future date.
-
-1. A unique delivery date can be assigned to each order line. The date is inherited from the field on the purchase order header, but you can change this.
+1. Select the **Delivery** tab and, in the **Delivery date** box, use the currently assigned date or enter a future date.  
+    A unique delivery date can be assigned to each order line. The date is inherited from the field on the purchase order header, but you can change this.
 
 1. Write down your purchase order number. You will need this later.
 
