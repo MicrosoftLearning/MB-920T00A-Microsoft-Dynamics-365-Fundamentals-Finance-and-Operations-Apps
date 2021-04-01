@@ -34,12 +34,12 @@ Now that you've become familiar with finance and operations apps, take some time
 
         pass@word1
 
->[!Note] Internet Explorer may automatically open in the desktop. If you have not already completed steps #2-5, please finish them before navigating back to Internet Explorer.
+    >[!Note] Internet Explorer may automatically open in the desktop. If you have not already completed steps #2-5, please finish them before navigating back to Internet Explorer.
 
 1. Select the **AdminUserProvisioning** file on the desktop.
 
 1. Enter the credentials provided and then select **Submit**.  
-Your credentials can be found in the **Files** menu at the top right corner of the screen.
+Your credentials can be found in the **Resources** menu at the top right corner of the screen.
 
 1. Wait for the script to finish before continuing. This may take 2-3 minutes. Once the script is completed a pop-up box will display to confirm the Admin user has been successfully updated.
 
@@ -49,7 +49,7 @@ Your credentials can be found in the **Files** menu at the top right corner of t
 
 1. Browse to the given link: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
-1. Sign in using the credentials provided in the **Files** menu.
+1. Sign in using the credentials provided in the **Resources** menu.
 
 ### Navigate finance and operations apps
 1. On the Finance and Operations Home page, if configured, you will see:
@@ -64,7 +64,8 @@ Your credentials can be found in the **Files** menu at the top right corner of t
 
     - The Search bar that is very useful to quickly find what you need.
 
-    - In the top right, you have the company you are currently working with, notifications, settings, and help links.
+    - In the top right, you have the company you are currently working with, notifications, settings, and help links.  
+    Verify the company listed is **USMF**.
 
     ![Dynamics 365 Finance and Operations home page with areas highlighted.](./media/m1-common-home-page.png)
 
@@ -78,7 +79,7 @@ Your credentials can be found in the **Files** menu at the top right corner of t
 
 1. Under **Setup**, select **Client performance options**.
 
-1. In the Client performance options pane, under **Feature callouts enabled**, select the toggle switch and set it to **On**.
+1. In the Client performance options pane, under **Feature callouts enabled**, select the toggle switch and set it to **Yes**.
 
 1. Review the other available options, scroll to the bottom of the pane, and then select **OK**.
 
