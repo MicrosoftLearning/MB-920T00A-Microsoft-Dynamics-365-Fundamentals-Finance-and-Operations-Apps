@@ -38,9 +38,8 @@ Create a new vendor payment journal entry and payment proposal.
 
 1. On the top menu, select **Lines**.
 
-1. On the Vendor payments page, on the top menu, select **Payment proposal** > **Create payment proposal**.
-
-1. The payment proposal is a query used to select invoices for payment. You can edit the list of invoices to pay before creating or generating the vendor payments.
+1. On the Vendor payments page, on the top menu, select **Payment proposal** > **Create payment proposal**.  
+    The payment proposal is a query used to select invoices for payment. You can edit the list of invoices to pay before creating or generating the vendor payments.
 
     ![Screen image displaying the Vendor payment page with Payment proposal and Create payment proposal highlighted](./media/lp2-m4-vendor-payment-proposal.png)
 
@@ -50,17 +49,14 @@ Create a new vendor payment journal entry and payment proposal.
 
     >[!NOTE] A minimum payment date may be used as the payment date. The minimum payment date will be the earliest date used when creating payments. For example, if an invoice has a due date after the minimum payment date, the due date will become the payment date instead of the minimum payment date to pay the invoice on the latest possible date.
 
-1. Expand **Records to include** and then review the options.
+1. Expand **Records to include** and then review the options.  
+    The filter is often used to restrict the invoices selected for payment by vendor group or method of payment. For example, you may add a filter to only pay invoices by check in this pay run.
 
-1. The filter is often used to restrict the invoices selected for payment by vendor group or method of payment. For example, you may add a filter to only pay invoices by check in this pay run.
+1. Expand **Advanced parameters** and then review the available options.  
+    The additional parameters can be used to define the payment currency or to enable centralized payments for this pay run.
 
-1. Expand **Advanced parameters** and then review the available options.
-
-1. The additional parameters can be used to define the payment currency or to enable centralized payments for this pay run.
-
-1. Select **OK**.
-
-1. After selecting OK, the results of the query will appear. If you don't want to preview the list of invoices selected to pay, you can go back to the Parameters fast tab and change the setting **Create payments without invoice preview** to **Yes**.
+1. Select **OK**.  
+    After selecting OK, the results of the query will appear. If you don't want to preview the list of invoices selected to pay, you can go back to the Parameters fast tab and change the setting **Create payments without invoice preview** to **Yes**.
 
 1. In the Vendor payment proposal window, select **Show payment overview** to view the payments that will be created for the vendor on the selected invoice.
 
