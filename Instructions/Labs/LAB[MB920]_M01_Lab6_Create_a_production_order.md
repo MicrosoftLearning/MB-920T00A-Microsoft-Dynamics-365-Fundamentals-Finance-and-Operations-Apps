@@ -22,15 +22,14 @@ You must create a new production order for your company.
 
 1. If necessary, select the company and from the menu, select **USMF**.
 
-1. In the left navigation pane, select **Production control** > **Production orders** > **All production orders**.
+1. In the left navigation pane, select **Modules** > **Production control** > **Production orders** > **All production orders**.
 
 1. On the top menu, select **New production order**.
 
 1. Under **IDENTIFICATION**, in the **Item number** box, enter **D0001,** and then select the identified item.
 
-1. Under **PRODUCTION**, in the **Delivery** box, select a date one month from today's date.
-
-1. The delivery date indicates when the production order should end in order to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date.
+1. Under **PRODUCTION**, in the **Delivery** box, select a date one month from today's date.  
+    The delivery date indicates when the production order should end in order to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date.
 
 1. In the **Quantity** box, enter **20**.
 
