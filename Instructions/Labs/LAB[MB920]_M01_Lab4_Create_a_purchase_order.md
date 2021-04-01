@@ -10,7 +10,7 @@ lab:
 
 ## Objectives
 
-It's more typical for purchase orders to be created automatically as result of master planning, direct delivery, and other processes. Purchase orders are typically created by a purchasing agent. Create a purchase order using the the USMF company.
+It's more typical for purchase orders to be created automatically as result of master planning, direct delivery, and other processes. When created manually, a purchase order is usually created by a purchasing agent. Create a purchase order using the the USMF company.
 
 ## Lab Setup
 
