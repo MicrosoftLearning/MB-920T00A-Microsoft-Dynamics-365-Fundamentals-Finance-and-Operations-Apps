@@ -11,7 +11,7 @@ lab:
 ## Objectives
 The Warehouse management system in Supply Chain Management gives you flexible ways to define your warehouse layout to meet changing needs, so that you can achieve optimal warehouse efficiency.
 
-- You can establish high-priority and low-priority storages areas for optimum placement of goods.
+- You can establish high-priority and low-priority storage areas for optimum placement of goods.
 - You can divide your warehouse into zones to accommodate various storage needs, such as temperature requirements, or various turnover rates for items.
 - You can specify warehouse locations on any level (for example, site, warehouse, aisle, rack, shelf, and bin position).
 - You can group locations by using physical capacity constraint settings.
@@ -41,15 +41,15 @@ To use warehouse management in Supply Chain Management, you must create a wareho
 
 1. Select the **Site** menu, and then select **3 Home foam production**.
 
-1. Expand **Location names**.
-
-1. The options in this section define the default format for location names.
+1. Expand **Location names**.  
+    The options in this section define the default format for location names.
 
 1. Set the **Include aisle** and **Include rack** options to **Yes**.
 
-1. In the **Format** box, for the rack, enter a value.
+1. In the **Format** box, for the rack, enter a value.  
+    For example, if the format of the rack location name must contain OVFL, you would enter that value in the Format box.
 
-1. Set the **Include shelf** option to **Yes**.
+1. Under **LEVEL**, set the **Include shelf** option to **Yes**.
 
 1. In the **Format** field, for the shelf, enter **-##**.
 
