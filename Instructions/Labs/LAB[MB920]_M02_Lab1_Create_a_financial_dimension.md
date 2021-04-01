@@ -34,7 +34,7 @@ You must create a custom financial dimension that will be used by your company.
 
 1. In the top menu, select **Activate**.
 
- ![Screenshot displaying the new custom financial dimension with the Use values from, Dimension name, Report column name and Activate menu highlighted](./media/lp2-m3-new-financial-dimension.png)
+    ![Screenshot displaying the new custom financial dimension with the Use values from, Dimension name, Report column name and Activate menu highlighted](./media/lp2-m3-new-financial-dimension.png)
 
 1. Review the information in the dialog box, and then select **Close**.
 
