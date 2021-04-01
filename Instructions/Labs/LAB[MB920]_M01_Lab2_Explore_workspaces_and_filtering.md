@@ -36,15 +36,16 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 
 1. Right-click or tap and hold the tile, and then select **Personalize: My workspace 1**.
 
-1. In the Personalize window, rename My workspace 1 to **My workspace,** and then select **Personalize this page**.
-
-1. The name change will be saved automatically.
+1. In the Personalize window, rename My workspace 1 to **My workspace,** and then select **Personalize this page**.  
+    The name change will be saved automatically.
 
 1. In the newly opened toolbar, select **Move**.
 
     ![Screen image displaying the personalization toolbar](./media/m1-common-personize-this-page-toolbar.png)
 
 1. Select your **My workspace** tile and then move it to another location on the Home page.
+
+    >[!Note] If you are unable to move the tile, refresh the page and the retry the previous steps to move the tile.
 
 1. Close the toolbar.
 
@@ -86,9 +87,8 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 
 1. Under **Group**, select the **begins with** menu and review the comparison operators. Select **is exactly**.
 
-1. Select the menu below **is exactly,** and then select **30 Other Vendors**.
-
-1. Alternatively, you could enter a value in the menu field.
+1. Select the menu below **is exactly,** and then select **Other Vendors**.  
+    Alternatively, you could enter a value in the menu field.
 
 1. Select **Apply**, and then review the results. Notice the filter icon in the Group column header.
 
