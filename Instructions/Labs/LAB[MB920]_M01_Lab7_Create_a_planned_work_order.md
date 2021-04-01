@@ -8,7 +8,7 @@ lab:
 
 ## Objectives
 
-Maintenance orders placed in the system that describes the maintenance or repair that is needed on an asset and assigns the appropriate resources to complete the maintenance request. Your company has an ongoing service contract and needs to be sure that planned service orders are created to support expected servicing of contact items.
+Maintenance orders placed in the system describe the maintenance or repair that is needed on an asset and are used to assign the appropriate resources to complete the maintenance request. Your company has an ongoing service contract and needs to be sure that planned service orders are created to support expected servicing of contract items.
 
 ## Lab Setup
 
@@ -40,7 +40,7 @@ Maintenance orders placed in the system that describes the maintenance or repair
 1. Under **INFOLOG**, select **Show Infolog** toggle switch to set it to **Yes**.  
 This will display a list of the service orders that are created in the agreement.
 
-1. Under **INCLUDE TRANSACTION TYPES**, select the **Hours** toggle switch to set it to **Yes**.  
+1. Under **INCLUDE TRANSACTION TYPES**, select the **Hour** toggle switch to set it to **Yes**.  
 The transaction types represent the lines that are created in the service agreement, and each transaction type that you select generates several service orders, depending on the service interval that is specified on the service agreement line.
 
 1. Under **OPTION**, select the **Continuous** toggle switch to set it to **Yes**.  
