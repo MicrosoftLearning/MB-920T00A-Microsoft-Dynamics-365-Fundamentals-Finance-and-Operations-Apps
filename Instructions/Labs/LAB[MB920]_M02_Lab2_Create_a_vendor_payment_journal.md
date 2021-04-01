@@ -43,7 +43,7 @@ Create a new vendor payment journal entry and payment proposal.
 
     ![Screen image displaying the Vendor payment page with Payment proposal and Create payment proposal highlighted](./media/lp2-m4-vendor-payment-proposal.png)
 
-1. In the Vendor payment proposal pane, under **INVOICE SELECTION CRITERIA**, select the **Select invoice by** menu, review the available options, and then select **Due date**.
+1. In the Vendor payment proposal pane, under **INVOICE SELECTION CRITERIA**, select the **Select invoices by** menu, review the available options, and then select **Due date**.
 
 1. In the **From date** and **To date**, delete any existing value. For this exercise, these date ranges will be left blank.
 
