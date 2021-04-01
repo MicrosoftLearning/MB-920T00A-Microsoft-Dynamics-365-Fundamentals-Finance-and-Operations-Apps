@@ -35,7 +35,7 @@ Maintenance orders placed in the system describe the maintenance or repair that 
 
 1. On the ribbon bar, under **Create**, select **Planned service orders**.
 
-1. In the Create service orders pane, under **PERIOD**, set the **From date** to today's date and the **To date** to two days today's date.
+1. In the Create service orders pane, under **PERIOD**, set the **From date** to today's date and the **To date** to two days from today's date.
 
 1. Under **INFOLOG**, select **Show Infolog** toggle switch to set it to **Yes**.  
 This will display a list of the service orders that are created in the agreement.
