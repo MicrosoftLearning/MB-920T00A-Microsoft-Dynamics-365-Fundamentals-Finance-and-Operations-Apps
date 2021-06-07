@@ -18,7 +18,7 @@ Estimated time: 15 mins.
 
 1. On the Finance and Operations Home page, in the top right, verify you are working with the USMF company.
 
-2. If necessary, select the company and from the menu, select USMF**.**
+2. If necessary, select the company and from the menu, select **USMF**.
 
 3. In the left navigation pane, select **Modules** **&gt; Asset Management &gt; Setup &gt; Maintenance Request &gt; Lifecycle states.**
 
