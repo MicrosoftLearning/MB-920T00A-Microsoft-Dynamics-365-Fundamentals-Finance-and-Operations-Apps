@@ -1,49 +1,96 @@
 ---
 lab:
-    title: 'Lab 7: Create a planned work order'
+    title: 'Lab 7: Create a maintenance work order'
     module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
 ---
 
-## Lab 7 - Create a planned work order
+## Lab 7 - Create a maintenance work order
 
-## Objectives
+**Objectives**
 
-Maintenance orders placed in the system describe the maintenance or repair that is needed on an asset and are used to assign the appropriate resources to complete the maintenance request. Your company has an ongoing service contract and needs to be sure that planned service orders are created to support expected servicing of contract items.
+Maintenance orders placed in the system describe the maintenance or repair needed for an asset and are used to assign the appropriate resources to complete the maintenance request. The Work Order is created based on the maintenance order, which is executed by the resource allocated.
 
-## Lab Setup
+**Lab Setup**
 
-   - **Estimated Time**: 10 minutes
+Estimated time: 15 mins.
 
-## Instructions
+**Instructions**
 
 1. On the Finance and Operations Home page, in the top right, verify you are working with the USMF company.
 
-1. If necessary, select the company and from the menu, select **USMF.**
+2. If necessary, select the company and from the menu, select USMF**.**
 
-1. In the left navigation pane, select **Modules** > **Service management** > **Service agreements** > **Service agreements**.
+3. In the left navigation pane, select **Modules** **&gt; Asset Management &gt; Setup &gt; Maintenance Request &gt; Lifecycle states.**
 
-1. Select the check box in the first column of the first service agreement.
+4. Select InProgress and click on the **Edit** button in the action pane.
 
-    ![Screen image of selected service agreement](./media/lp1-m5-select-service-agreement.png)
+5. Under the **General** tab, change the **Create Work Order** value to Yes.
 
-1. Select the **End date** box and delete the current value, and then, on the top menu, select **Save**.  
- The end date is being removed so that a new service order can be created for this agreement.
+6. In the left navigation pane, select **Modules** **&gt; Asset Management &gt; Workspaces &gt; Maintenance request management.**
 
-    ![Screen image displaying the empty end date cell and Save option highlighted](./media/lp1-m5-update-date-save-service-agreement.png)
+7. Click on **Create maintenance request.**
 
-1. On the top menu, select **Deliver**.
+8. Enter following values in the fields of the dialog and click on the **OK** button.
 
-1. On the ribbon bar, under **Create**, select **Planned service orders**.
+	- Maintenance request type: Corrective
 
-1. In the Create service orders pane, under **PERIOD**, set the **From date** to today's date and the **To date** to two days from today's date.
+	- Description: Noise in the metal detector
 
-1. Under **INFOLOG**, select **Show Infolog** toggle switch to set it to **Yes**.  
-This will display a list of the service orders that are created in the agreement.
+	- Functional location: PP-02-02
 
-1. Under **INCLUDE TRANSACTION TYPES**, select the **Hour** toggle switch to set it to **Yes**.  
-The transaction types represent the lines that are created in the service agreement, and each transaction type that you select generates several service orders, depending on the service interval that is specified on the service agreement line.
+	- Asset: MD-201
 
-1. Under **OPTION**, select the **Continuous** toggle switch to set it to **Yes**.  
-This is used to create any service orders that are missing from a continuous series of service orders.
+	- Service level: 4
 
-1. Select **OK**.
+	- Fault symptom: Excessive noise
+
+	- Fault area: Electrical 
+
+9. Close the **Maintenance request** form and go back to the **Maintenance request management** workspace.
+
+10. Refresh the page by pressing the **refresh** icon at the top-right corner of the screen.
+
+![Screenshot of refresh icon](./media/lab-create-a-maintenance-request-01.png)
+
+11. The new Maintenance request will appear in the list of Maintenance requests without work order.
+
+12. Select the newly created the Maintenance request and click on the **Update maintenance request state** button. 
+
+13. In the dialog select the checkbox next to InProgress and click on **OK**
+
+![Screenshot of line item to be selected](./media/lab-create-a-maintenance-request-02.png) 
+
+
+14. Select the newly created the Maintenance request and click on the **Create work order** button. 
+
+15. Enter following values in the fields of the dialog and click on the **OK** button.
+
+	- Maintenance job type: Inspection
+
+16. A new work order will be created, and the work order will be updated in the selected Maintenance request record.
+
+17. Click on the work order and navigate to the **Work order details** screen.
+
+18. Under the work order Lines, click on the **Dispatch** button.
+
+19. Enter following values in the fields of the dialog and click on the **OK** button.
+
+	- Worker: Ted Howard
+
+20. In the Action menu, navigate to **Work order &gt; Lifecycle state &gt; Update work order state.**
+
+21. In the dialog select the checkbox next to InProgress and click on **OK**
+
+![Screenshot of line item to be selected](./media/lab-create-a-maintenance-request-03.png)
+
+22. Select the **Actual start** date & time in the dialog box and click on **OK.**
+
+23. From the Work Order action menu, again navigate to **Work order &gt; Lifecycle state &gt; Update work order state.**
+
+24. In the dialog select the checkbox next to Completed and click on **OK**
+
+![Screenshot of line item to be selected](./media/lab-create-a-maintenance-request-04.png)
+
+25. In the **Actual end** field select a date & time which is greater than start date & time and click on OK
+
+26. You will find the current lifecycle state in the work order header as completed.
