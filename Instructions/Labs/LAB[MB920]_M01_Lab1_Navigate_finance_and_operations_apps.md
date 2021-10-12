@@ -113,7 +113,7 @@ Your credentials can be found in the **Resources** menu at the top right corner 
 
 1. Select the **Group** menu, and then select the **Vendor group** column title.
 
-    ![A screenshot of the Vendor group column title for Acme Office Supplies.](./media/m1-common-all-vendor-group-menu-24493345.png)
+    ![A screenshot of the Vendor group column title for Acme Office Supplies.](./media/m1-common-vendor-group-menu-24493345.png)
 
 1. Many menus have sorting and filtering available. Use the filters to quickly locate the field content you are looking for.
 
