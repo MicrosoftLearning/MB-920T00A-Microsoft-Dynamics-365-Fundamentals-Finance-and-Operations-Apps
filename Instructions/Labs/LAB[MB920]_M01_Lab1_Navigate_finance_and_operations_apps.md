@@ -109,11 +109,11 @@ Your credentials can be found in the **Resources** menu at the top right corner 
 
 1. Highlight one of the vendors from the list and, on the right, select the **Related information** menu, and review the additional information that is provided.
 
-1. In the vendor list, select **Northwind Traders**.
+1. In the vendor list, select **Acme Office Supplies**.
 
 1. Select the **Group** menu, and then select the **Vendor group** column title.
 
-    ![A screenshot of the Vendor group column title for Northwind Traders.](./media/m1-common-all-vendor-group-menu.png)
+    ![A screenshot of the Vendor group column title for Acme Office Suppliess.](./media/m1-common-all-vendor-group-menu-24493345.png)
 
 1. Many menus have sorting and filtering available. Use the filters to quickly locate the field content you are looking for.
 
