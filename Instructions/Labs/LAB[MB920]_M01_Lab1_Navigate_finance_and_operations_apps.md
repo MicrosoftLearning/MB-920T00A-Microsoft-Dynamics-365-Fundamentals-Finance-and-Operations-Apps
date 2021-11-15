@@ -79,7 +79,7 @@ Your credentials can be found in the **Resources** menu at the top right corner 
 
 1. Under **Setup**, select **Client performance options**.
 
-1. In the Client performance options pane, under **Feature callouts enabled**, select the toggle switch and set it to **Yes**.
+1. In the Client performance options pane, under **Feature callouts enabled**, select the toggle switch and ensure that it is set to **Yes**.
 
 1. Review the other available options, scroll to the bottom of the pane, and then select **OK**.
 
