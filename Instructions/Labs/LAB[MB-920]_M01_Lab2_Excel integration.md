@@ -8,81 +8,51 @@ lab:
 
 ## Lab 2 - Excel integration
 
-Now that you have become familiar with finance and operations apps, take some time to explore the interface.
+Now that you have become familiar with finance and operations apps, take some time to explore the Excel integration scenario.
 
-1. Go to the Finance and Operations home page. If configured, the page will display:
+### Task #1: Create template
 
-	- The navigation menu on the left that is collapsed by default.
+1. Open the Finance and Operations home page. 
 
-	- Your company's logo. 
+2. Navigate to **Modules** > **Common** > **Common** > **Office Integration** > **Excel Workbook** **Designer**. Note that most navigation is through Modules, so this is not typically specified.
 
-	- Workspace tiles available to you based on your role in the organization.
+3. Search for **VendorGroup** in the filter.
 
-	- A calendar and work items assigned to you. 
+4. From the list of available fields, select the fields **Vendor group**, **Description**, and **Terms of payment** and move them to the selected field box by selecting the right arrow.
 
-	- The Search bar that is useful to quickly find what you need.
+5. In the action pane, select the **Create workbook** button.
 
-	- In the top right is the name of the company you are currently working with, notifications, settings, and help links.
+6. On the right, in the **Save To** panel, select the **Download** button.
 
-![Dynamics 365 Finance and Operations home page with areas highlighted.](../media/reporting-integration-using-finance-and-operations-apps-09.png)
+7. Download the file by selecting **Save As** and store it in the **Downloads** folder.
 
- 
+8. Navigate to **Common** > **Office Integration** > **Document** **templates**.
 
-2. In the top left, select the **Expand the navigation pane** hamburger menu. The navigation pane is where you will find collections for your Favorites, Recent items, Workspaces, and Modules.
+9. Select **New**.
 
-3. In the navigation pane, select **Modules**, and then select **System administration**.
+10. In the right panel, in the **Upload template** section, select the **Browse** button and select the file downloaded previously (if you used the default name, it is DynamicsWorkbook).
 
-4. Review the areas available in the System administration module. 
+11. In the **Template name** field, enter **CustomVendorGroup**.
 
-5. Under **Setup**, select **Client performance options**.
+12. Select **OK**, and then select **Save**.
 
-6. In the **Client performance options** pane, under **Feature callouts enabled**, select the toggle switch, and set the value to **On**.
+### Task #2: Open in Excel
 
-7. Review the other available options, scroll to the bottom of the pane, and then select **OK**.
+1. Navigate to **Procurement and sourcing** > **Setup** > **Vendors** > **Vendor groups**.
 
-8. On the **Home** page, in the top right, select the **Settings** icon, and then select **User options**.
+2. Select **Open in Microsoft Office** > **Open in Excel** to find the new template, CustomVendorGroup, that you uploaded.
 
-![Screenshot showing Settings icon and User options dropdown list](../media/reporting-integration-using-finance-and-operations-apps-10.png)
+3. Select **CustomVendorGroup** and download the Excel template.
 
-9. On the **Options** page, use the tabs to configure different settings that will apply to your account. 
+4. Save and then open the downloaded Excel template, allow it if needed, close activation, and select **Enable editing**. Trust this add-in, and then sign in (using your same credentials, if asked).
 
-10. Select the **Preferences** tab.
+All the existing data of the Vendor group table will appear in the Excel spreadsheet.
 
-11. Review the available preferences. Notice you can change the default company and initial page view you will see when you sign in.
+5. Enter a new record.
 
-12. Select and review the **Account** and **Workflow** tabs.
+6. Enter **100** in the **Vendor group** field, **Insurance Vendor** in the **Description** field, and **Net10** in the **Terms of payment** field.
 
-13. In the left navigation menu, select the **Home** icon.
+7. Select the **Publish** button in the Microsoft Dynamics Office Add-in app.
 
-14. On the **Home** page, in the top center of the page, select the **Search for a page** box.
-
-15. In the search box, search for **All vendors**. You may need to wait the first time you search for a page. You will see a small spinning circle to the right of the search box while the search is processing.
-
-The All vendors page is an example of a list page. The list page contains master data that can be read, created, deleted, and updated. You will see added features using the ribbon shown above the list.
-
-![All vendor list with menu features highlighted](../media/reporting-integration-using-finance-and-operations-apps-11.png)
-
- 
-
-16. Select one of the vendors from the list and, on the right, select the **Related information** menu, and review the additional information that is provided. 
-
-17. In the vendor list, select **Northwind Traders**.
-
-18. Select the **Group** drop down, and then select the **Vendor group** column title.
-
-![A screenshot of the Vendor group column title for Northwind Traders.](../media/reporting-integration-using-finance-and-operations-apps-12.png)
-
- 
-
-19. Many menus have sorting and filtering available. Use the filters to quickly find the field content you are looking for.
-
-20. In the top right, notice the added functionality. Move your mouse to each item and review the feature callout. When complete, select the **Close** icon to close the page and return to the **Home** page.
-
-![List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Refresh page, Open in new window, and Close buttons](../media/reporting-integration-using-finance-and-operations-apps-13.png)
-
- 
-
-21. In the upper right, select the **Help** question mark icon, and then select **Help**. The help information that displays is related to the current page. 
-
-22. Try selecting a workspace tile, and then review the help information for that workspace. When complete, return to the **Home** page.
+8. Open the **Vendor group** form to verify that the new record is added.
 
