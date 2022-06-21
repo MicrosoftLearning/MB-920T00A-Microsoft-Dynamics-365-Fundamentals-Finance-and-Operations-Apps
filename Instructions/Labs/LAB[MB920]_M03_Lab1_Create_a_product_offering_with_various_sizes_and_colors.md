@@ -1,12 +1,12 @@
 ---
 lab:
-    title: 'Lab 3: Create a product offering with various sizes and colors'
-    module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+    title: 'Lab 1: Create a product offering with various sizes and colors'
+    module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
 ---
 
 # Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
 
-## Lab 3 - Create a new product
+## Lab 1 - Create a new product
 
 ## Objectives
 
