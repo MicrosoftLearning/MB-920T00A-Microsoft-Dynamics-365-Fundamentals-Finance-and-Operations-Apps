@@ -1,10 +1,10 @@
 ---
 lab:
-    title: 'Lab 2: Create a product assortment'
-    module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
+    title: 'Lab 1: Create a product assortment'
+    module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
 ---
 
-## Lab 2 - Create a product assortment
+## Lab 1 - Create a product assortment
 
 ## Objectives
 
