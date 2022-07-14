@@ -1,10 +1,10 @@
 ---
 lab:
     title: 'Lab 1: Navigate finance and operations apps'
-    module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+    module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
 
-# Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
+# Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps
 
 ## Lab 1 - Navigate finance and operations apps
 
