@@ -3,6 +3,8 @@ lab:
     title: 'Lab 1: Create a main account'
     module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
     
+# Module 2: Learn the Fundamentals of Micqrosoft Dynamics 365 Finance
+    
 ## Lab 1 - Create a main account
 
 ## Instructions
