@@ -30,4 +30,4 @@ lab:
 
 	- DB/CR default: **Debit**
 
- ![Screenshot of the Main accounts - chart of accounts: Shared page with the fields from step 5 filled in.](../media/m-002-explore-general-ledgers-in-microsoft-dynamics-365-finance-03.png)
+ ![Screenshot of the Main accounts - chart of accounts: Shared page with the fields from step 5 filled in](./media/m-002-explore-general-ledgers-in-microsoft-dynamics-365-finance-03.png)
