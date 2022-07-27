@@ -4,7 +4,7 @@ lab:
     module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
 ---
 
-# Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
+# Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
 
 ## Lab 1 - Create a new product
 
