@@ -34,7 +34,7 @@ Now that you've become familiar with finance and operations apps, take some time
 
         pass@word1
 
-    >[!Note] Internet Explorer may automatically open in the desktop. If you have not already completed steps #2-5, please finish them before navigating back to Internet Explorer.
+    >[!Note] Microsoft Edge may automatically open in the desktop. If you have not already completed steps #2-5, please finish them before navigating back to Microsoft Edge.
 
 1. Select the **AdminUserProvisioning** file on the desktop.
 
@@ -45,7 +45,7 @@ Your credentials can be found in the **Resources** menu at the top right corner 
 
 1. Select **Ok** to continue.
 
-1. Open **Internet Explorer**.
+1. Open **Microsoft Edge**.
 
 1. Browse to the given link: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
