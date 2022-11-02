@@ -28,7 +28,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 6.  Enter a new record.
 
-7. Enter **100** in the **Vendor group** field, **Insurance Vendor** in the **Description** field, and **Net10** in the **Terms of payment** field.
+7. Enter **100** in the **Vendor group** field, **Insurance vendor** in the **Description** field, and **Net10** in the **Terms of payment** field.
 
 8. Select the **Publish** button in the Microsoft Dynamics Office Add-in app.
 
