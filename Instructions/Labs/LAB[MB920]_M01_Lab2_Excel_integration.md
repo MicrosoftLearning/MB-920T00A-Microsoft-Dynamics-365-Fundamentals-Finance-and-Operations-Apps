@@ -6,6 +6,8 @@ lab:
 
 # Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps
 
+## Lab 2 - Excel integration
+
 ## Objective
 
 In this lab, you will learn how to copy data from finance and operations to Excel using Dynamics office add-in app. You will also learn how the same app can be used to insert data into finance and operations apps.
