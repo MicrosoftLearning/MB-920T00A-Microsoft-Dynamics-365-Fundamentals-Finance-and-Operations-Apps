@@ -116,6 +116,6 @@ Now that you've become familiar with finance and operations apps, take some time
 
 1. Return to the **Default dashboard** using the "Finance and Operations" link in the top left or the Home icon in the left hand navigation menu.
 
->[!Note] Keyboard shortcut: Alt+Shift+Home Finance and Operations supports a lot of keyboard shortcuts to speed up accessing the system: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/shortcut-keys
+>[!Note] Keyboard shortcut: Alt+Shift+Home, Finance and Operations supports a lot of keyboard shortcuts to speed up accessing the system: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/shortcut-keys
 
 1. Try selecting another **Workspace tile**, and then review the help information for that Workspace. When complete, return to the Default dashboard.
