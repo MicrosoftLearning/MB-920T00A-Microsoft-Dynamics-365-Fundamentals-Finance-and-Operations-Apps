@@ -24,7 +24,7 @@ lab:
 
 	![Screenshot of the Create on-hand counting journal dialog pane with the fields set as described.](./media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
 
-7. Expand the **Records to include** section and select the **Filter** link. In the **Item number** field, select **A0001**, and then select **OK**.
+7. Expand the **Records to include** section and select the **Filter** link. For the **Item number** field, type **A0001** in the Criteria, and then select **OK**.
 
 8. Select **OK** in the bottom of the **Create on-hand counting journal** dialog form.
 
