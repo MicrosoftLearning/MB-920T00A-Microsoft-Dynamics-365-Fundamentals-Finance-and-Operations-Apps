@@ -20,17 +20,13 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. In the navigation pane, select **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
 
-1. Wait for the page to load.
-
 1. On the Assortments page, select **+ New**.
 
-1. In the New Record pane, expand **General**.
+1. In the New Record pane, if necessary expand **General**.
 
 1. Select the **Effective date** box, and then select a date in the future.
 
 1. In the **Assortment name** box, enter a name for the new assortment. For example, **New Spring Season**.
-
-1. Set the **Expiration date** to **Never**.
 
 1. The expiration date can be used to automatically deactivate a published assortment.
 

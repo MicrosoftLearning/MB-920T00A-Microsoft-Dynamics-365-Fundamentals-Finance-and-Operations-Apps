@@ -18,13 +18,13 @@ lab:
 
 	![Screenshot of the Inventory counting journal form with header and detail information filled in.](./media/lp-scm-m-002-warehouse-inventory-mgmt-06.png)
 
-5. Select **Create lines -&gt; Online** in the action pane.
+5. Select **Create lines -&gt; On-hand** in the action pane.
 
-6. In the **Create on-hand counting journal** dialog pane, set the **Warehouse**, **Inventory Status**, Location, and **License Plate** fields to **Yes**. 
+6. In the **Create on-hand counting journal** dialog pane, set the **Warehouse**, **Inventory Status**, **Location**, and **License Plate** fields to **Yes**. 
 
 	![Screenshot of the Create on-hand counting journal dialog pane with the fields set as described.](./media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
 
-7. Expand the **Record to include** section and select the **Filter** link. In the **Item number** field, select **A0001**, and then select **OK**.
+7. Expand the **Records to include** section and select the **Filter** link. For the **Item number** field, type **A0001** in the Criteria, and then select **OK**.
 
 8. Select **OK** in the bottom of the **Create on-hand counting journal** dialog form.
 

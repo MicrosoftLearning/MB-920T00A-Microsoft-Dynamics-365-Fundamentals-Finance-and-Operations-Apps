@@ -34,29 +34,18 @@ Now that you've become familiar with finance and operations apps, take some time
 
         pass@word1
 
-    >[!Note] Microsoft Edge may automatically open in the desktop. If you have not already completed steps #2-5, please finish them before navigating back to Microsoft Edge.
+1. Wait for the AdminUserProvisioning script to finish before continuing. This may take 2-3 minutes. Once the script is completed a pop-up box will briefly display to confirm the Admin user has been successfully updated.
 
-1. Select the **AdminUserProvisioning** file on the desktop.
+1. **Microsoft Edge** will open the Finance & Operations URL: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
-1. Enter the credentials provided and then select **Submit**.  
-Your credentials can be found in the **Resources** menu at the top right corner of the screen.
-
-1. Wait for the script to finish before continuing. This may take 2-3 minutes. Once the script is completed a pop-up box will display to confirm the Admin user has been successfully updated.
-
-1. Select **Ok** to continue.
-
-1. Open **Microsoft Edge**.
-
-1. Browse to the given link: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
-
-1. Sign in using the credentials provided in the **Resources** menu.
+1. Sign in using the Username and Password provided in the **Resources** menu.
 
 ### Navigate finance and operations apps
-1. On the Finance and Operations Home page, if configured, you will see:
+1. On the Finance and Operations Home page, you will see:
 
     - The navigation menu on the left that is collapsed by default.
 
-    - Your company's logo.
+    - Your company's banner image.
 
     - Workspace tiles available to you based on your role in the organization.
 
@@ -119,10 +108,14 @@ Your credentials can be found in the **Resources** menu at the top right corner 
 
 1. In the top right, notice the additional functionality. Move your mouse to each item, and review the feature callout. When complete, select the **Close** icon to close the page and return to the Home page.
 
-    ![List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Refresh page, Open in new window, and Close buttons](./media/m1-common-list-page-additional-features-menu.png)
+    ![List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Attachments, Refresh, Open in new window, and Close buttons](./media/m1-common-list-page-additional-features-menu.png)
 
 1. In the upper-right, select the **Help** question mark icon, and then select **Help**.
 
 1. Notice the help information is related to the current page.
 
-1. Try selecting a workspace tile, and then review the help information for that workspace. When complete, return to the Home page.
+1. Return to the **Default dashboard** using the "Finance and Operations" link in the top left or the Home icon in the left hand navigation menu.
+
+>[!Note] Keyboard shortcut: Alt+Shift+Home, Finance and Operations supports a lot of keyboard shortcuts to speed up accessing the system: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/shortcut-keys
+
+1. Try selecting another **Workspace tile**, and then review the help information for that Workspace. When complete, return to the Default dashboard.
