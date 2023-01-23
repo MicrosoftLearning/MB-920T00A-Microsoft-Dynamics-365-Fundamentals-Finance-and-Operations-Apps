@@ -29,12 +29,15 @@ You must create a new production order for your company.
 1. Under **IDENTIFICATION**, in the **Item number** box, enter **D0001,** and then select the identified item.
 
 1. Under **PRODUCTION**, in the **Delivery** box, select a date one month from today's date.  
-    The delivery date indicates when the production order should end in order to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date.
+   
+   The delivery date indicates when the production order should end in order to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date. 
 
-1. In the **Quantity** box, enter **20**.
+1. In the **Quantity** box, enter **20.00**.
 
 1. Under **BOM/ROUTE**, the BOM number field automatically displays the number of any active BOM for the current item, but you can change the BOM for the production order by selecting an active BOM from the list of approved BOM versions. The Route number field automatically displays the number of any active Route for the current item, but you can change the Route for the production order by selecting an active Route from the list of approved Route versions.
 
     ![Screen image displaying the complete Create production order pane](./media/lp1-m4-new-production-order-pane.png)
 
 1. Select **Create**.
+
+1. **Close** the page and return to the home page.
