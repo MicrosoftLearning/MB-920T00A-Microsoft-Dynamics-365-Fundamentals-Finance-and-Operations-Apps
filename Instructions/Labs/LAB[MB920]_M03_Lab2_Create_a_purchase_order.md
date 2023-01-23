@@ -104,4 +104,4 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. On the **All purchase orders** page, use the Filter feature to find your new purchase order.
 
-1. When complete, **close** the **All purchase orders** page and return to the Home page. 
+1. When complete, **close** the **All purchase orders** page and return to the home page. 
