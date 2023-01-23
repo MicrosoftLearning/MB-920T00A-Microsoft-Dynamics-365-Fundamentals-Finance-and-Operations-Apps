@@ -22,7 +22,7 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. On the Assortments page, select **+ New**.
 
-1. In the New Record pane, if necessary expand **General**.
+1. On the **New Record** form, if necessary expand **General**.
 
 1. Select the **Effective date** box, and then select a date in the future.
 
@@ -34,7 +34,7 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. On the Commerce channels menu, select **+ Add line**.
 
-1. In Choose organization nodes, select the **Organization hierarchy** menu, and then select **Retail Stores by Type (Fabrikam)**.
+1. In the **Choose organization nodes** pane, select the **Organization hierarchy** menu, and then select **Retail Stores by Type (Fabrikam)**.
 
 1. In the AVAILABLE ORGANIZATION NODES list, select Online, and then select the Add ![Right-arrow icon](./media/d365-fo-add-org-node-icon.png) icon to add it to the **SELECTED ORGANIZATION NODES**.  
   This will add the parent node and all child nodes.
@@ -49,7 +49,7 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. Select the **Category** menu, select **Team Sports (Team Sports),** and then select **OK**.
 
-1. This will add all child items of the parent category.
+   This will add all child items of the parent category.
 
 1. Review the last column named **Line type**. By default, all items will be included.
 
@@ -69,4 +69,4 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. Review the information in the dialog box, and then select **Yes**.
 
-1. The newly created product assortment will become available on the effective date.
+1. The newly created product assortment will become available on the selected **effective date**.
