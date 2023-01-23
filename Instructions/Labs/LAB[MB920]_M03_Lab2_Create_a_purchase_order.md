@@ -26,9 +26,9 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Select **Modules** > **Procurement and sourcing** > **Purchase orders** > **All purchase orders**.
 
-1. On the All purchase orders page, in the top menu, select **+ New**.
+1. On the **All purchase orders** page, in the top menu, select **+ New**.
 
-1. In the Create purchase order pane, select the **Vendor account** menu, and then select **US-101**.
+1. In the **Create purchase order** pane, select the **Vendor account** menu, and then select **US-101**.
 
 1. When you select a vendor, details from the vendor record, such as address, invoice account, delivery terms, and delivery mode, will be copied as default values into the order header. You can change these values at any time.
 
@@ -36,7 +36,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Under **STORAGE DIMENSIONS**, select the **Site** menu, and review the list of sites.
 
-1. The Site field, together with the Warehouse field, specifies where the procured goods or services must be delivered. The default delivery address is the site. Both fields can be populated with values set up for the selected vendor, or you can specify them manually.
+1. The **Site** field, together with the **Warehouse** field, specifies where the procured goods or services must be delivered. The default delivery address is the site. Both fields can be populated with values set up for the selected vendor, or you can specify them manually.
 
 1. Under **DATES**, the Delivery date field is used to specify when procured goods and services need to be delivered.
 
@@ -44,7 +44,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Expand the **Administration** section. The **Orderer** box can be used to specify who is placing the order.
 
-1. This may be convenient to share with the vendor in case they need to contact that person. The value may be assigned automatically if the current user account is associated with a name on the Users page.
+   This may be convenient to share with the vendor in case they need to contact that person. The value may be assigned automatically if the current user account is associated with a name on the Users page.
 
 1. Select **OK**.
 
@@ -62,21 +62,21 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. In the Dimensions display pane, under **PRODUCT DIMENSIONS**, select the **Color** check box.
 
-1. Optional: If you select the Save setup toggle switch, the dimensions you have chosen will also be shown on the order line grid the next time you open the purchase order page.
+1. Optional: If you select the **Save setup** toggle switch, the dimensions you have chosen will also be shown on the order line grid the next time you open the purchase order page.
 
 1. Select **OK**.
 
 1. Select the **Item number** cell menu, and then select **T0004**.
 
-1. Remember, you can also type in the filter box instead of scrolling through the list.
+   Remember, you can also type in the filter box instead of scrolling through the list.
 
-1. Order lines are created for products and services by specifying an item number or as expenses by specifying a procurement category.
+1. Order lines are created for products and services by specifying an **item number** or as expenses by specifying a **procurement category**.
 
-1. Procurement category is used for adding lines where procured items are expensed directly, rather than going into inventory. This means that if you need to expense a purchase, you can do this by creating a purchase order line that specifies a procurement category, rather than creating a line with an item number. Items can also be associated with a procurement category and in this case, the procurement category is shown as informational only.
+1. **Procurement category** is used for adding lines where procured items are expensed directly, rather than going into inventory. This means that if you need to expense a purchase, you can do this by creating a purchase order line that specifies a procurement category, rather than creating a line with an item number. Items can also be associated with a procurement category and in this case, the procurement category is shown as informational only.
 
 1. Select the **Color** menu, review the available options, and then select one of the colors or color combinations.
 
-1. Site and Warehouse are typically populated with values from the order header, but it is possible to override the fields if some lines need to be delivered to different locations.
+1. **Site** and **Warehouse** are typically populated with values from the order header, but it is possible to override the fields if some lines need to be delivered to different locations.
 
 1. In the **Quantity** box, enter **10**.
 
@@ -98,10 +98,10 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Select the **Delivery** tab.
 
-1. A unique delivery date can be assigned to each order line. The date is inherited from the field on the purchase order header, but you can change this.
+1. A unique **Delivery date** can be assigned to each order line. The date is inherited from the field on the purchase order header, but you can change this.
 
-1. Close the Purchase order line page.
+1. **Close** the Purchase order line page.
 
-1. On the All purchase orders page, use the Filter feature and find your new purchase order.
+1. On the **All purchase orders** page, use the Filter feature to find your new purchase order.
 
-1. When complete, close the All purchase orders page and return to the Home page.
+1. When complete, **close** the **All purchase orders** page and return to the Home page. 
