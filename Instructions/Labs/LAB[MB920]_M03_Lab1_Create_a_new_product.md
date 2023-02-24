@@ -34,7 +34,7 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Select the **Tracking dimension group** menu, and then select **None**.
 
-1. Under **IDENTIFICATION**, in the **Product number** and **Item number** boxes, enter **GTL007**.
+1. Under **IDENTIFICATION**, for the **Product number** enter **GTL007**.
 
 1. In the **Product name** box, enter **Cabinet 2**.
 
@@ -57,9 +57,9 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Under **PURCHASE TAXATION**, select **Item sales tax group** menu, and then select **ALL**.
 
-1. Under PRICES, in the Purchase price box, enter 30.00.
+1. Under **PRICES**, in the **Purchase price** box, enter 30.00.
 
-1. In the Sales price box, enter 30.00.
+1. In the **Sales price** box, enter 30.00.
 
 1. Your new release product should look like this:
 
@@ -67,7 +67,7 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Select **OK**.
 
-1. To ensure the product is finalized, in the ribbon bar, under **Maintain**, select **Validate**.
+1. To ensure the product is finalized, on the action pane, under **Maintain**, select the **Validate** action.
 
     ![Screen image displaying the ribbon bar with Validate highlighted](./media/lp1-m2-validate-ribbon-bar.png)
 
@@ -75,4 +75,4 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
     ![Screen image of information notification that all required fields have been validated](./media/lp1-m2-confirmation-of-validation.png)
 
-1. Close all pages and return to the Home page.
+1. **Close** all pages and return to the Home page.

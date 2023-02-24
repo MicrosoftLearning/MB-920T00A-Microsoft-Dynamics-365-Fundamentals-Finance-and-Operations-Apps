@@ -14,7 +14,7 @@ lab:
 
 3. Select the **+New** button in the action pane. The **Create inventory journal** dialog form will appear with the **OK** button in the bottom. Select the **OK** button.
 
-4. Inventory counting journal form will appear with header and detail information
+4. The **Inventory counting journal** form will appear with header and line information.
 
 	![Screenshot of the Inventory counting journal form with header and detail information filled in.](./media/lp-scm-m-002-warehouse-inventory-mgmt-06.png)
 
@@ -28,7 +28,7 @@ lab:
 
 8. Select **OK** in the bottom of the **Create on-hand counting journal** dialog form.
 
-The on-hand quantity of item A0001 will appear in the **Journal lines** section with the breakup of the Site, Warehouse, Location and License plate.
+   The on-hand quantity of item A0001 will appear in the **Journal lines** section with the breakup of the Site, Warehouse, Location and License plate.
 
 9. In the **Counted** column of the **Journal line** section, enter the numbers counted in each Site/Warehouse/Location/License plate. Note the following:
 
@@ -40,4 +40,4 @@ The on-hand quantity of item A0001 will appear in the **Journal lines** section 
 
 10. Select the **Validate** button in the action pane, and then select the **Post** button.
 
-11. Close the page and return to the home page.
+11. **Close** the page and return to the home page.
