@@ -1,4 +1,4 @@
-# MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps
+# MB-920: Microsoft Dynamics 365 fundamentals finance and operations apps
 
 - **[Download Latest Student Handbook and AllFiles Content](https://learningdownloadcenter.microsoft.com/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
