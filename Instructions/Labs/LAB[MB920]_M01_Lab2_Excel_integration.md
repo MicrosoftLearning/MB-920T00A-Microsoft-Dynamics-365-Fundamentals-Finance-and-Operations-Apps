@@ -28,11 +28,9 @@ Now that you have become familiar with finance and operations apps, take some ti
 
     All the existing data of the **Vendor group** table will appear in the Excel spreadsheet. 
 
-6.  Enter a new record. 
+6.  To create a new record, enter `100` in the **Vendor group** field, `Insurance vendor` in the **Description** field, and `Net10` in the **Terms of payment** field. 
 
-7.  Enter `100` in the **Vendor group** field, `Insurance vendor` in the **Description** field, and `Net10` in the **Terms of payment** field. 
+7.  Select the **Publish** button in the Microsoft Dynamics Data Connector task pane. 
 
-8.  Select the **Publish** button in the Microsoft Dynamics Data Connector task pane. 
-
-9.  Open and refresh the **Vendor groups** form in Dynamics 365 to verify that the new record has been added. 
+8.  Open and refresh the **Vendor groups** form in Dynamics 365 to verify that the new record has been added. 
 
