@@ -20,11 +20,11 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 2.  Navigate to **Procurement and sourcing** > **Setup** > **Vendors** > **Vendor groups**.
 
-3.  Select **Open in Microsoft Office** > **Open in Excel**.
+3.  In the action pane, select **Open in Microsoft Office** and under **Open in Excel**, select **Vendor groups (usmf)**
 
-4.  Select **Vendor groups (USMF)** and select **Download**. 
+4.  In the **Open in Excel** pane, select **Download**. 
 
-5.  The Excel template file will be downloaded and saved. Open the downloaded Excel template file, click allow if needed, close activation, and select **Enable Editing**. Select **Trust this add-in**, and then sign in (using your same credentials, if asked). 
+5.  The Excel template file will be downloaded and saved. **Open** the downloaded Excel template file, skip or allow other standard security prompts if needed, close activation, and select **Enable Editing**. Select **Trust this add-in**, and then sign in (using your same credentials, if asked). 
 
     All the existing data of the **Vendor group** table will appear in the Excel spreadsheet. 
 
