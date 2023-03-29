@@ -6,9 +6,9 @@ lab:
 
 # Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps
 
-## Lab 1 - Navigate finance and operations apps
+## Lab 1: Navigate finance and operations apps
 
-## Objectives
+## Objective
 
 Now that you've become familiar with finance and operations apps, take some time to explore the interface.
 
