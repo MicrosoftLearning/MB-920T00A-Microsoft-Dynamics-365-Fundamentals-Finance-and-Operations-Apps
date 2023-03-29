@@ -14,29 +14,29 @@ lab:
 
 ## Instructions
 
-1.  On the Finance and Operations home page, in the top right, verify you are working with the **USMF** company. If necessary, select the company, and from the drop down, select **USMF**. 
+1.  On the **Finance and Operations Home** page, in the top right, verify you are working with the **USMF** company. If necessary, select the company, and from the drop-down, select **USMF**. 
 
-2.  In the left navigation pane, select **Modules** > **Inventory management** > **Journal entries** > **Item counting** > **Counting**. 
+2.  In the left navigation pane, in the **Inventory management** module, select **Journal entries** > **Item counting** > **Counting**. 
 
-3.  Select the **+New** button in the action pane. The **Create inventory journal** dialog form will appear with the **OK** button in the bottom. Select the **OK** button. 
+3.  Select the **+New** button in the action pane. The **Create inventory journal** dialog pane will appear. Select the **OK** button. 
 
 4.  The **Inventory counting journal** form will appear with header and line information. 
 
     ![Screenshot of the Inventory counting journal form with header and detail information filled in.](./media/lp-scm-m-002-warehouse-inventory-mgmt-06.png)
 
-5.  Select **Create lines -&gt; On-hand** in the action pane. 
+5.  In the action pane, select **Create lines -&gt; On-hand**. 
 
-6.  In the **Create on-hand counting journal** dialog pane, set the **Warehouse**, **Inventory Status**, **Location**, and **License Plate** fields to **Yes**. 
+6.  In the **Create on-hand counting journal** dialog pane, set the **Warehouse**, **Inventory status**, **Location**, and **License plate** fields to **Yes**. 
 
     ![Screenshot of the Create on-hand counting journal dialog pane with the fields set as described.](./media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
 
-7.  Expand the **Records to include** section and select the **Filter** link. For the **Item number** field, type **A0001** in the Criteria, and then select **OK**. 
+7.  Expand the **Records to include** section and select the **Filter** button. For the **Item number** field, enter `A0001` in the **Criteria** field, and select **OK**. 
 
-8.  Select **OK** in the bottom of the **Create on-hand counting journal** dialog form. 
+8.  Select **OK** in the bottom of the **Create on-hand counting journal** dialog pane. 
 
-    The on-hand quantity of item A0001 will appear in the **Journal lines** section with the breakup of the Site, Warehouse, Location and License plate. 
+    The on-hand quantities of item **A0001** will appear in the **Journal lines** grid with the breakup of Site, Warehouse and Location. 
 
-9. In the **Counted** column of the **Journal line** section, enter the numbers counted in each Site/Warehouse/Location/License plate. Note the following: 
+9.  In the **Counted** column of the **Journal line** section, match the numbers counted for each Site/Warehouse and Location. Note the following: 
 
     - If the **On-hand** quantity is the same as **Counted** quantity, the **Quantity** field will be blank. 
 
@@ -44,6 +44,9 @@ lab:
 
     - If the value of the **Counted** field is less than the **On-hand** field, the **Quantity** field will contain a negative value. 
 
-10. Select the **Validate** button in the action pane, and then select the **Post** button. 
+10. Select the **Validate** button in the action pane, and select **OK** in the dialog pane. 
 
-11. **Close** the page and return to the home page. 
+11. Select the **Post** button. 
+
+12. **Close** the page and return to the home page. 
+
