@@ -88,7 +88,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
     > **Note:** The **Quantity** is automatically populated with the **Minimum order quantity** for the **product** if this is set up, or with a value of **1**. 
 
-    > **Note:** Other columns can be defined:
+    > **Note:** Other line details fields available: 
     >
     >    - **Unit**: Indicates the unit of measure for the ordered quantity. Normally, the unit is automatically provided from the purchasing unit on the product master data. 
     >
