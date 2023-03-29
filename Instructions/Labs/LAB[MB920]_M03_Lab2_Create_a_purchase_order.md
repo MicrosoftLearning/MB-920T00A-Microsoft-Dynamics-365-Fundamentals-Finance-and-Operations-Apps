@@ -91,13 +91,13 @@ It's more typical for purchase orders to be created automatically as result of m
     > Some additional information: 
     >
     >    - **Unit**: Indicates the unit of measure for the ordered quantity. Normally, the unit is automatically provided from the purchasing unit on the product master data. 
-
+    >
     >    - **Unit price**: Contains a value from either a purchase agreement or a trade agreement. It is possible to change the unit price on individual order lines—for example, if a unique price is negotiated with the vendor. 
-
+    >
     >    - **Discount**: Represents a discount amount per unit. This discount therefore reduces the unit price by the discount. This discount is commonly supplied automatically from purchase agreements or trade agreements, but it is possible to override on individual lines if unique discounts have been negotiated with the vendor. 
-
+    >
     >    - **Discount percentage**: When entered, this reduces the net amount for the line accordingly. The discount percent is often supplied automatically from purchase agreements or trade agreements, but it is possible to override on individual lines if a unique discount percentage has been negotiated with the vendor. 
-
+    >
     >    - **Net amount**: Calculated from other fields on the line, including quantity, unit price, discount, and discount percent. It is possible to change the Net amount, but then the Unit Price, Discount, and Discount percent fields will be blank, and when you post toward the line, the amount posted will be proportional to the net amount. Generally, the Net Amount field is only used for displaying the net amount of the line. 
 
 1.  In the **Line details** FastTab, expand if necessary, and select the **Delivery** tab. 
