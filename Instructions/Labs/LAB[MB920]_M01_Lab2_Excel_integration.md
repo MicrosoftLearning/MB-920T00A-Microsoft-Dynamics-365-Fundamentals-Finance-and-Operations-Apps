@@ -6,13 +6,17 @@ lab:
 
 # Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps
 
-## Lab 2 - Excel integration
+## Lab 2: Excel integration
 
 ## Objective
 
 In this lab, you will learn how to copy data from finance and operations to Excel using Dynamics Data Connector office add-in app. You will also learn how the same app can be used to insert data into finance and operations apps. 
 
-## Lab steps
+## Lab Setup
+
+   - **Estimated Time**: 5 minutes
+
+## Instructions
 
 Now that you have become familiar with finance and operations apps, take some time to explore the Excel integration scenario. 
 
