@@ -18,11 +18,11 @@ lab:
 
 2.  If necessary, select the company picker and choose **USMF**. 
 
-3.  In the left navigation pane, select **Modules** > **General ledger** > **Chart of accounts** > **Accounts** > **Main accounts**.
+3.  In the left navigation pane, in the **General ledger** module, select **Chart of accounts** > **Accounts** > **Main accounts**.
 
-4.  On the top menu, select **+ New**.
+4.  Select **+ New** in the action pane.
 
-5.  Enter the following values on the Main account page:
+5.  Enter the following values on the **Main account** page: 
 
     - Main account: `601510`
 
