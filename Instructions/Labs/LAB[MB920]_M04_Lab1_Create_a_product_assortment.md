@@ -18,25 +18,27 @@ You need to create an assortment of related products that are assigned to a spec
 
 ## Instructions
 
-1.  On the **Finance and Operations Home** page, in the top left, select the **Expand the navigation pane** hamburger menu.
+1.  On the **Finance and Operations Home** page, in the top right, verify you are working with the **USMF** company. 
 
-1.  In the navigation pane, select **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
+1.  If necessary, select the company and from the menu, select **USMF**. 
 
-1.  On the Assortments page, select **+ New**.
+1.  In the left navigation pane, in the **Retail and Commerce** module, select **Catalogs and assortments** > **Assortments**. 
 
-1.  On the **New Record** form, if necessary expand the **General** FastTab. 
+1.  On the **Assortments** page, select **+ New**. 
 
-1.  Select the **Effective date** box, and then select a date in the future.
+1.  On the **New Record** form, if necessary, expand the **General** FastTab. 
 
-1.  In the **Assortment name** box, enter a name for the new assortment. For example, **New Spring Season**.
+1.  Select the **Effective date** field, and then select a date in the future.  
 
-1.  The expiration date can be used to automatically deactivate a published assortment.
+1.  In the **Assortment name** field, enter a name for the new assortment. For example, `New Spring Season`
 
-1.  Expand **Commerce channels**.
+    > **Note:** The **Expiration date** can be used to automatically deactivate a published assortment. 
 
-1.  On the Commerce channels menu, select **+ Add line**.
+1.  Expand the **Commerce channels** FastTab. 
 
-1.  In the **Choose organization nodes** pane, select the **Organization hierarchy** menu, and then select **Retail Stores by Type (Fabrikam)**.
+1.  On the **Commerce channels** toolbar, select **+ Add line**. 
+
+1.  In the **Choose organization nodes** pane, for the **Organization hierarchy** field, select **Retail Stores by Type (Fabrikam)**. 
 
 1.  In the AVAILABLE ORGANIZATION NODES list, select Online, and then select the Add ![Right-arrow icon](./media/d365-fo-add-org-node-icon.png) icon to add it to the **SELECTED ORGANIZATION NODES**.
 
@@ -44,13 +46,13 @@ You need to create an assortment of related products that are assigned to a spec
 
 1.  Add the **Mall** parent node, and then select **OK**. 
 
-1.  Verify the two nodes have been added to the Commerce channels. 
+1.  Verify the two nodes have been added to the **Commerce channels** FastTab. 
 
-1.  Expand **Products**. 
+1.  Expand the **Products** FastTab. 
 
-1.  On the Products menu, select **+Add line**. 
+1.  On the **Products** toolbar, select **+Add line**. 
 
-1.  Select the **Category** menu, select **Team Sports (Team Sports),** and then select **OK**.
+1.  For the **Category** field, expand **Team Sports (Team Sports),** and then select **OK**.
 
     This will add all child items of the parent category.
 
@@ -62,15 +64,11 @@ You need to create an assortment of related products that are assigned to a spec
 
 1.  Using the Baseball category row, select the **Products** menu. 
 
-1.  When products within a category are defined, you can select a specific product to include or exclude. Select **AdultBaseballInfield**. 
+1.  When products within a category are defined, you can select a specific product to include or exclude. Select **AdultBaseballInfield** or enter `0013` 
 
-1.  To remove an added product, delete contents of the product box, and then press the Tab key on your keyboard or select another area of the page. 
+    > **Note:** To remove an added product, delete the contents of the **Product** field, and then press Tab or select another area of the page. 
 
-1.  On the top menu, select **Save**. 
+1.  On the action pane, select **Save** and select **Publish**. 
 
-1.  On the top menu, select **Publish**. 
-
-1.  Review the information in the dialog box, and select **Yes**. 
-
-1.  The newly created product assortment will become available on the selected **effective date**. 
+1.  Select **Yes** on the confirmation dialog. The newly created product assortment will become available on the selected **Effective date**. 
 
