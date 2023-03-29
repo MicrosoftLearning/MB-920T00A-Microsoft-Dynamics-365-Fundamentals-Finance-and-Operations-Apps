@@ -102,11 +102,11 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1.  In the **Line details** FastTab, expand if necessary, and select the **Delivery** tab. 
 
-1.  A unique **Delivery date** can be assigned to each order line. The date is inherited from the field on the Purchase order header, but you can change this. 
+    > **Note:** A unique **Delivery date** can be assigned to each order line. The date is inherited from the **Delivery date** field on the Purchase order header, but you can change it here. 
 
 1.  Make a note of the **Purchase order number** and **close** the page. 
 
 1.  On the **All purchase orders** list view, use the **Filter** to find your new purchase order. 
 
-1.  When complete, **close** the **All purchase orders** page and return to the home page. 
+1.  When complete, **close** the **All purchase orders** page and return to the Home page. 
 
