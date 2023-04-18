@@ -22,13 +22,9 @@ Now that you've become familiar with finance and operations apps, take some time
 
 1.  Sign in to the lab computer using below credentials:
 
-    - User Name:
+    - User Name: `Administrator`
 
-    `Administrator`
-
-    - Password:
-
-    `pass@word1`
+    - Password: `pass@word1`
 
 1.  Wait for the AdminUserProvisioning script to finish before continuing. This may take 2-3 minutes. Once the script is completed a pop-up box will briefly display to confirm the Admin user has been successfully updated. 
 
