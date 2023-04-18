@@ -22,19 +22,21 @@ lab:
 
 4.  Select **+ New** in the action pane. 
 
-5.  In the **Customer account** field, select or enter `US-001`
+5.  In the **CUSTOMER > Customer account** field, select or enter `US-001`
 
-6.  Navigate to the **Invoice lines** and select or enter `601510` in the **Main account** field. 
+6.  Change the year in the **INVOICE > Date** field to 2022. Verify the **Due** date updates to 10 days later, also in 2022. 
 
-7.  Verify the **Sales tax group** and **Item sales tax group** fields automatically populate with **CA** and **AU/VI** respectively. 
+7.  Navigate to the **Invoice lines** and select or enter `601510` in the **Main account** field. 
 
-8.  Enter `10` in the **Quantity** field. 
+8.  Verify the **Sales tax group** and **Item sales tax group** fields automatically populate with **CA** and **AU/VI** respectively. 
 
-9.  Enter `1.2` in the **Unit price** field. 
+9.  Enter `10` in the **Quantity** field. 
 
-10.  Select the **Accounting** tab on the action pane and under **Accounting**, select **View distributions**. Review the distributions. 
+10. Enter `1.2` in the **Unit price** field. 
 
-11. **Close** the View distributions page. 
+11.  Select the **Accounting** tab on the action pane and under **Accounting**, select **View distributions**. Review the distributions. 
 
-12. Select the **Post** button on the action pane and select **OK** in the dialog. 
+12. **Close** the View distributions page. 
+
+13. Select the **Post** button on the action pane and select **OK** in the dialog. 
 
