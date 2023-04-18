@@ -18,7 +18,7 @@ lab:
 
 2.  In the left navigation pane, in the **Inventory management** module, select **Journal entries** > **Item counting** > **Counting**. 
 
-3.  Select the **+New** button in the action pane. The **Create inventory journal** dialog pane will appear. Select the **OK** button. 
+3.  Select the **+ New** button in the action pane. The **Create inventory journal** dialog pane will appear. Select the **OK** button. 
 
 4.  The **Inventory counting journal** form will appear with header and line information. 
 
@@ -32,7 +32,7 @@ lab:
 
 7.  Expand the **Records to include** section and select the **Filter** button. For the **Item number** field, enter `A0001` in the **Criteria** field, and select **OK**. 
 
-8.  Select **OK** in the bottom of the **Create on-hand counting journal** dialog pane. 
+8.  Select **OK** at the bottom of the **Create on-hand counting journal** dialog pane. 
 
     The on-hand quantities of item **A0001** will appear in the **Journal lines** grid with the breakup of Site, Warehouse and Location. 
 
@@ -44,9 +44,11 @@ lab:
 
     - If the value of the **Counted** field is less than the **On-hand** field, the **Quantity** field will contain a negative value. 
 
-10. Select the **Validate** button in the action pane, and select **OK** in the dialog pane. 
+10. Change the year of the **Date** field on each line to be 2022. 
 
-11. Select the **Post** button. 
+11. Select the **Validate** button in the action pane, and select **OK** in the dialog pane. 
 
-12. **Close** the page and return to the home page. 
+12. Select the **Post** button. 
+
+13. **Close** the page and return to the home page. 
 
