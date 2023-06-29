@@ -35,87 +35,81 @@ Now that you've become familiar with finance and operations apps, take some time
 
 ### Navigate finance and operations apps
 
-1.  On the **Finance and Operations Home** page, you will see: 
+Now that you have become familiar with finance and operations apps, take some time to explore the interfaces.
 
-    - The navigation menu on the left that is collapsed by default. 
+1. On the **Finance and Operations Home** page, if configured, you find:
 
-    - The company's default banner image. 
+	- The navigation menu on the left that is collapsed by default.
 
-    - Workspace tiles available to you based on your role in the organization. 
+	- Your company's logo.
 
-    - A calendar and work items assigned to you. 
+	- Workspace tiles available to you based on your role in the organization.
 
-    - The **Search for a page** bar that is very useful to quickly find what you need. 
+	- A calendar and work items assigned to you.
 
-    - In the top right, you have the company you are currently working with, notifications, settings, and help links. 
+	- The Search bar that is useful to quickly find what you need.
 
-    ![Dynamics 365 Finance and Operations home page with areas highlighted.](./media/m1-common-home-page.png)
+	- In the top right, you have the company you're currently working with, notifications, settings, and help links. Verify the company listed is **USMF**.
 
-1.  Verify the company listed is **USMF**. 
+![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](../media/lab-navigate-finance-and-operations-apps-04.png)
 
-1.  In the top left, select the **Expand the navigation pane** hamburger menu. 
+2. In the top left, select the **Expand the navigation pane** hamburger menu.
 
-1.  The navigation pane is where you'll find collections for your **Favorites**, **Recent** items, **Workspaces**, and **Modules**. 
+3. The navigation pane is where you find collections for your **Favorites**, **Recent** items, **Workspaces**, and **Modules**.
 
-1.  In the navigation pane, select **Modules** > **System administration**. 
+4. In the navigation pane, select **Modules** > **System administration**.
 
-1.  **Review** the different areas available in the **System administration** module. 
+5. Review the areas available in the System administration module.
 
-1.  Under **Setup**, select **Client performance options**. 
+6. Under **Setup**, select **Client performance options**.
 
-1.  In the Client performance options pane, under **Feature callouts enabled**, select the toggle switch and ensure that it is set to **Yes**. 
+7. In the **Client performance options** pane, under **Feature callouts enabled**, select the toggle switch and ensure that it's set to **Yes**.
 
-1.  Review the other available options, scroll to the bottom of the pane, and select **OK**. 
+8. Review the other available options, scroll to the bottom of the pane, and then select **OK**.
 
-1.  On the Home page, in the top right, select the **Settings** icon, and then select **User options**. 
+9. On the **Home** page, in the top right, select the **Settings** icon, and then select **User options**.
 
-    ![Screenshot showing Settings icon and  User options dropdown list](./media/m1-common-settings-user-settings.png)
+![Screenshot of the Settings icon and User options dropdown list.](../media/lab-navigate-finance-and-operations-apps-05.png)
 
-1.  On the **User options** page, use the tabs to configure different settings that will apply to your account. 
+10. On the **Options** page, use the tabs to configure different settings that apply to your account.
 
-1.  Select the **Preferences** tab. 
+11. Select the **Preferences** tab.
 
-1.  Review the available preferences. Notice you can change the default **Company** and **Initial page** you will see when you sign in. 
+12. Review the available preferences. Notice you can change the default company and initial page view when you sign in.
 
-1.  Select and review the **Account** and **Workflow** tabs. 
+13. Select and review the **Account** and **Workflow** tabs.
 
-1.  In the left navigation menu, select the **Home** icon. 
+14. In the left navigation menu, select the **Home** icon.
 
-1.  On the Home page, in the top center of the page, select the **Search for a page** box. 
+15. On the **Home** page, in the top center of the page, select the **Search for a page** box.
 
-1.  In the search box, search for `All vendors` 
+16. In the search box, search for **All vendors**.
 
-1.  You may need to wait the first time you search for a page. You will see a small spinning circle to the right of the search box while the search is processing. 
+17. Select **All vendors** Accounts payable > Vendors
 
-1.  Select the first result **All vendors**, this is the same as navigating to **Modules** > **Accounts payable** > **Vendors** > **All vendors**. 
+18. You may need to wait the first time you search for a page. There's a small spinning circle to the right of the search box while the search is processing.
 
-1.  The **All vendors** page is an example of a list page. The list page generally contains master data that can be read, created, deleted, and updated. You'll see additional functions available using the action pane above the list. 
+19. The **All vendors** page is an example of a list page. The list page contains master data that can be read, created, deleted, and updated. There are more features using the ribbon above the list.
 
-    ![All vendor list with menu features highlighted](./media/m1-common-all-vendor-list-page.png)
+![Screenshot of the All vendor list with menu features highlighted.](../media/lab-navigate-finance-and-operations-apps-06.png)
 
-1.  Highlight one of the vendors from the list and, on the right, select the **Related information** FactBox pane on the right, and review the additional information that is provided. 
+20. Highlight one of the vendors from the list and, on the right, select the **Related information** menu, and review the additional information that is provided.
 
-1.  In the vendor list, open the **Acme Office Supplies** record. 
+21. In the vendor list, select **Acme Office Supplies**.
 
-1.  Select **Edit** in the action pane, then in the **Group** field, select the drop-down menu and then select the **Vendor group** column title. 
+22. Select the **Group** menu, and then select the **Vendor group** column title.
 
-    ![A screenshot of the Vendor group column title for Acme Office Supplies.](./media/m1-common-vendor-group-menu-24493345.png)
+![Screenshot of the Vendor group column title for Acme Office Supplies.](../media/lab-navigate-finance-and-operations-apps-07.png)
 
-1.  Many menus have **sorting** and **filtering** available. Use the filters to quickly locate the field content you are looking for. If you already know the value, you can simply enter it into the field, rather than using the drop-down menu. 
+23. Many menus have sorting and filtering available. Use the filters to quickly locate the field content you're looking for.
 
-1.  In the right of the action pane, notice the additional functionality. Hover over each item, and review the feature callout. 
+24. In the top right, notice the extra functionality. Move your mouse to each item, and review the feature callout. When complete, select the **Close** icon to close the page and return to the **Home** page.
 
-1.  Select the **Close** icon to close this record and return to the **All vendors** list page. 
+![Screenshot of the List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Document attachment Refresh page, Open in new window, and Close buttons.](../media/lab-navigate-finance-and-operations-apps-08.png)
 
-    ![List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Attachments, Refresh, Open in new window, and Close buttons](./media/m1-common-list-page-additional-features-menu.png)
+25. In the upper-right, select the **Help** question mark icon, and then select **Help**.
 
-1.  In the upper-right, select the **?** Question mark icon, and then select **Help**. 
+26. Notice the help information is related to the current page.
 
-1.  Notice the help information pane is showing content for the current page. **Close** the Help pane. 
-
-1.  Return to the **Default dashboard** using the **Finance and Operations** button in the very top left, or the **Home** icon in the left hand navigation menu. 
-
-    > **Note:** Keyboard shortcut: Alt+Shift+Home. Dynamics 365 Finance and Operations supports a lot of keyboard shortcuts to speed up accessing the system: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/shortcut-keys
-
-1.  Try selecting a **Workspace tile**, and then review the help information for that Workspace. When complete, return to the Default dashboard. 
+27. Try selecting a workspace tile, and then review the help information for that workspace. When complete, return to the **Home** page.
 
