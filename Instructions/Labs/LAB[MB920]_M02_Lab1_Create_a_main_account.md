@@ -14,27 +14,53 @@ lab:
 
 ## Instructions
 
-1.  On the **Finance and Operations Home** page, in the top right, verify you are working with the **USMF** company. 
 
-2.  If necessary, select the company picker and choose **USMF**. 
+1. On the **Finance and Operations Home** page, in the upper right, verify you're working with the **USMF** company.
 
-3.  In the left navigation pane, in the **General ledger** module, select **Chart of accounts** > **Accounts** > **Main accounts**.
+2. If necessary, select the company, and from the menu, select **USMF**.
 
-4.  Select **+ New** in the action pane.
+3. In the left navigation pane, select **Modules** > **General ledger** > **Chart of accounts** > **Accounts** > **Main accounts**.
 
-5.  Enter the following values on the **Main account** page: 
+4. On the action pane, select **+ New**.
 
-    - Main account: `601510`
+5. Enter the following values on the **Main account** page:
 
-    - Name: `International call expense`
+	- Main account: **601510**
 
-    - Main account type: `Expense`
+	- Name: **International call expense**
 
-    - Main account category: `TANDEEXP`
+	- Main expense type: **Expense**
 
-    - DB/CR default: `Debit`
+	- Main account category: **TANDEEXP**
 
-    ![Screenshot of the Main accounts - chart of accounts: Shared page with the fields from step 5 filled in](./media/m-002-explore-general-ledgers-in-microsoft-dynamics-365-finance-03.png)
+	- DB/CR default: **Debit**
 
-6.  Select **Save** and **close** the page. 
+![Screenshot depicts Main accounts - chart of accounts: Shared page where different values need to be added.](../media/lab-create-a-main-account-01.png)
 
+ 
+
+6. Navigate to **Modules &gt; General ledger &gt; Journal entries &gt; General journals.**
+
+7. On the action pane, select **+ New**.
+
+8. Enter the following value on the **General journals** page and select **Lines** on the action pane:
+
+	- Name: GenJrn
+
+9. Enter the following values on the **Journal voucher** page:
+
+	- Account type: **Ledger**
+
+	- Main account: **601510**
+
+	- Debit: **10.00** 
+
+	- Offset account type: **Ledger**
+
+	- Offset account number: **110180** 
+
+10. Select the **Save** button in the action pane.
+
+11. Select **Validate &gt; Simulate posting**. 
+
+12. Select the **Post** button in the action pane. The journal should get posted.
