@@ -18,25 +18,25 @@ You need to create an assortment of related products that are assigned to a spec
 
 ## Instructions
 
-1. On the Finance and Operations home page, on the top left, select the **Expand the navigation pane** hamburger menu.
+1.  On the Finance and Operations home page, on the top left, select the **Expand the navigation pane** hamburger menu.
 
-2. In the navigation pane, select **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
+2.  In the navigation pane, select **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
 
-3. Wait for the page to load.
+3.  Wait for the page to load.
 
-4. On the **Assortments** page, select **+ New**.
+4.  On the **Assortments** page, select **+ New**.
 
-5. In the **New Record** pane, expand **General**.
+5.  In the **New Record** pane, expand **General**.
 
-6. Select the **Effective date** box, and then select a date in the future.
+6.  Select the **Effective date** box, and then select a date in the future.
 
-7. In the **Assortment name** box, enter a name for the new assortment. For example, **New Spring Season**.
+7.  In the **Assortment name** box, enter a name for the new assortment. For example, **New Spring Season**.
 
-8. Set the **Expiration date** to **Never**.
+8.  Set the **Expiration date** to **Never**.
 
-The expiration date can be used to automatically deactivate a published assortment.
+    The expiration date can be used to automatically deactivate a published assortment.
 
-9. Expand **Commerce channels**.
+9.  Expand **Commerce channels**.
 
 10. On the **Commerce channels** menu, select **+ Add line**.
 
@@ -44,7 +44,7 @@ The expiration date can be used to automatically deactivate a published assortme
 
 12. In the **AVAILABLE ORGANIZATION NODES** list, select **Online,** and then select the **Add** ![Picture 15](../media/04-learn-the-fundamentals-of-dynamics-365-commerce-17.png) icon to add it to the **SELECTED ORGANIZATION NODES**.
 
-This adds to the parent node and all child nodes.
+    This adds to the parent node and all child nodes.
 
 13. Add the **Mall** parent node, and then select **OK**.
 
@@ -56,7 +56,7 @@ This adds to the parent node and all child nodes.
 
 17. Select the **Category** menu, select **Team Sports (Team Sports)**, and then select **OK**.
 
-This adds all child items of the parent category.
+    This adds all child items of the parent category.
 
 18. Review the last column named **Line type**. By default, all items are included.
 
@@ -76,5 +76,5 @@ This adds all child items of the parent category.
 
 26. Review the information in the dialog box, and then select **Yes**.
 
-The newly created product assortment becomes available on the effective date.
+    The newly created product assortment becomes available on the effective date.
 
