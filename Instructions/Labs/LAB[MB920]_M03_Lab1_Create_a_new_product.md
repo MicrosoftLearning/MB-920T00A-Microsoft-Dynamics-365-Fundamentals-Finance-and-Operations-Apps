@@ -36,13 +36,13 @@ In Contoso Entertainment System USA (USMF), you plan to purchase a new configura
 
 8.  In the **Product name** box, enter **Cabinet 2**.
 
-    ![Screenshot depicts the standard view of the new product creation page.](../media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-07.png)
+    ![Screenshot depicts the standard view of the new product creation page.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-07.png)
 
 9.  Select the **OK** button.
 
 10. Under the **Product** menu in the Action Pane, select **Dimension groups** under the **Set up** group.
 
-    ![Screenshot depicts the set up option under the product menu where the different dimension group details can be added.](../media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-08.png)
+    ![Screenshot depicts the set up option under the product menu where the different dimension group details can be added.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-08.png)
 
 11. Select the **Storage dimension group** drop-down and select **SiteWH**.
 
@@ -54,7 +54,7 @@ In Contoso Entertainment System USA (USMF), you plan to purchase a new configura
 
 15. A page opens displaying the first step as **Select products to release.**
 
-    ![Screenshot depicts the standard view of the release products page.](../media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-09.png)
+    ![Screenshot depicts the standard view of the release products page.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-09.png)
 
 16. Select the **Next** button at the bottom of the page
 
@@ -106,10 +106,10 @@ In Contoso Entertainment System USA (USMF), you plan to purchase a new configura
 
 30. To complete the configuration, select Product in the Action Pane. Select the Validate button under the Maintain group
 
-    ![Screenshot depicts the Maintain group under the Product button in the action pane. The Validate button in the Maintain group is selected.](../media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-10.png)
+    ![Screenshot depicts the Maintain group under the Product button in the action pane. The Validate button in the Maintain group is selected.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-10.png)
 
 31. Verify you're presented with the information banner confirming that all field values needed were validated.
 
-    ![Screenshot depicts information banner confirming that all field values needed were validated. ](../media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-11.png)
+    ![Screenshot depicts information banner confirming that all field values needed were validated. ](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-11.png)
 
 32. Close all pages and return to the Home page.
