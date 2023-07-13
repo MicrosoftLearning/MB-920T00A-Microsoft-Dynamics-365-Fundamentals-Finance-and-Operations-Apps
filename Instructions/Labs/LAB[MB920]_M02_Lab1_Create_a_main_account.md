@@ -35,7 +35,7 @@ lab:
 
 	- DB/CR default: **Debit**
 
-    ![Screenshot depicts Main accounts - chart of accounts: Shared page where different values need to be added.](./Labs/media/lab-create-a-main-account-01.png)
+    ![Screenshot depicts Main accounts - chart of accounts: Shared page where different values need to be added.](./media/lab-create-a-main-account-01.png)
 
 6.  Navigate to **Modules &gt; General ledger &gt; Journal entries &gt; General journals.**
 
