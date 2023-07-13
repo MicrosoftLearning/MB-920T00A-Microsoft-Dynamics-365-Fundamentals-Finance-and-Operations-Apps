@@ -54,11 +54,11 @@ The **Site** field, together with the **Warehouse** field, specify where the pro
 
 The order header has now been created. When you work with purchase order lines, only a summary of the header information is displayed. If you need to view the rest of the information, select **Header**.
 
-![Screenshot depicts the order header where the summary of the order information is shown. The word Header is highlighted.](../media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-17.png)
+![Screenshot depicts the order header where the summary of the order information is shown. The word Header is highlighted.](media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-17.png)
 
 11. Under **Purchase order lines**, on the menu, select **Purchase order line**.
 
-![Screenshot depicts purchase order lines.](../media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-18.png)
+![Screenshot depicts purchase order lines.](media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-18.png)
 
 12. Under **DISPLAY**, select **Dimensions**.
 
