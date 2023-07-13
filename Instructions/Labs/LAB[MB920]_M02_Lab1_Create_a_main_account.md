@@ -15,15 +15,15 @@ lab:
 ## Instructions
 
 
-1. On the **Finance and Operations Home** page, in the upper right, verify you're working with the **USMF** company.
+1.  On the **Finance and Operations Home** page, in the upper right, verify you're working with the **USMF** company.
 
-2. If necessary, select the company, and from the menu, select **USMF**.
+2.  If necessary, select the company, and from the menu, select **USMF**.
 
-3. In the left navigation pane, select **Modules** > **General ledger** > **Chart of accounts** > **Accounts** > **Main accounts**.
+3.  In the left navigation pane, select **Modules** > **General ledger** > **Chart of accounts** > **Accounts** > **Main accounts**.
 
-4. On the action pane, select **+ New**.
+4.  On the action pane, select **+ New**.
 
-5. Enter the following values on the **Main account** page:
+5.  Enter the following values on the **Main account** page:
 
 	- Main account: **601510**
 
@@ -35,19 +35,17 @@ lab:
 
 	- DB/CR default: **Debit**
 
-![Screenshot depicts Main accounts - chart of accounts: Shared page where different values need to be added.](media/lab-create-a-main-account-01.png)
+    ![Screenshot depicts Main accounts - chart of accounts: Shared page where different values need to be added.](./media/lab-create-a-main-account-01.png)
 
- 
+6.  Navigate to **Modules &gt; General ledger &gt; Journal entries &gt; General journals.**
 
-6. Navigate to **Modules &gt; General ledger &gt; Journal entries &gt; General journals.**
+7.  On the action pane, select **+ New**.
 
-7. On the action pane, select **+ New**.
-
-8. Enter the following value on the **General journals** page and select **Lines** on the action pane:
+8.  Enter the following value on the **General journals** page and select **Lines** on the action pane:
 
 	- Name: GenJrn
 
-9. Enter the following values on the **Journal voucher** page:
+9.  Enter the following values on the **Journal voucher** page:
 
 	- Account type: **Ledger**
 

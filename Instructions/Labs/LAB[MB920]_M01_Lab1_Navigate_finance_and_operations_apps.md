@@ -37,7 +37,7 @@ Now that you've become familiar with finance and operations apps, take some time
 
 Now that you have become familiar with finance and operations apps, take some time to explore the interfaces.
 
-1. On the **Finance and Operations Home** page, if configured, you find:
+1.  On the **Finance and Operations Home** page, if configured, you find:
 
 	- The navigation menu on the left that is collapsed by default.
 
@@ -51,25 +51,25 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 	- In the top right, you have the company you're currently working with, notifications, settings, and help links. Verify the company listed is **USMF**.
 
-![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](media/lab-navigate-finance-and-operations-apps-04.png)
+    ![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](./media/lab-navigate-finance-and-operations-apps-04.png)
 
-2. In the top left, select the **Expand the navigation pane** hamburger menu.
+2.  In the top left, select the **Expand the navigation pane** hamburger menu.
 
-3. The navigation pane is where you find collections for your **Favorites**, **Recent** items, **Workspaces**, and **Modules**.
+3.  The navigation pane is where you find collections for your **Favorites**, **Recent** items, **Workspaces**, and **Modules**.
 
-4. In the navigation pane, select **Modules** > **System administration**.
+4.  In the navigation pane, select **Modules** > **System administration**.
 
-5. Review the areas available in the System administration module.
+5.  Review the areas available in the System administration module.
 
-6. Under **Setup**, select **Client performance options**.
+6.  Under **Setup**, select **Client performance options**.
 
-7. In the **Client performance options** pane, under **Feature callouts enabled**, select the toggle switch and ensure that it's set to **Yes**.
+7.  In the **Client performance options** pane, under **Feature callouts enabled**, select the toggle switch and ensure that it's set to **Yes**.
 
-8. Review the other available options, scroll to the bottom of the pane, and then select **OK**.
+8.  Review the other available options, scroll to the bottom of the pane, and then select **OK**.
 
-9. On the **Home** page, in the top right, select the **Settings** icon, and then select **User options**.
+9.  On the **Home** page, in the top right, select the **Settings** icon, and then select **User options**.
 
-![Screenshot of the Settings icon and User options dropdown list.](media/lab-navigate-finance-and-operations-apps-05.png)
+    ![Screenshot of the Settings icon and User options dropdown list.](./media/lab-navigate-finance-and-operations-apps-05.png)
 
 10. On the **Options** page, use the tabs to configure different settings that apply to your account.
 
@@ -91,7 +91,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 19. The **All vendors** page is an example of a list page. The list page contains master data that can be read, created, deleted, and updated. There are more features using the ribbon above the list.
 
-![Screenshot of the All vendor list with menu features highlighted.](media/lab-navigate-finance-and-operations-apps-06.png)
+    ![Screenshot of the All vendor list with menu features highlighted.](./media/lab-navigate-finance-and-operations-apps-06.png)
 
 20. Highlight one of the vendors from the list and, on the right, select the **Related information** menu, and review the additional information that is provided.
 
@@ -99,13 +99,13 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 22. Select the **Group** menu, and then select the **Vendor group** column title.
 
-![Screenshot of the Vendor group column title for Acme Office Supplies.](media/lab-navigate-finance-and-operations-apps-07.png)
+    ![Screenshot of the Vendor group column title for Acme Office Supplies.](./media/lab-navigate-finance-and-operations-apps-07.png)
 
 23. Many menus have sorting and filtering available. Use the filters to quickly locate the field content you're looking for.
 
 24. In the top right, notice the extra functionality. Move your mouse to each item, and review the feature callout. When complete, select the **Close** icon to close the page and return to the **Home** page.
 
-![Screenshot of the List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Document attachment Refresh page, Open in new window, and Close buttons.](media/lab-navigate-finance-and-operations-apps-08.png)
+    ![Screenshot of the List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Document attachment Refresh page, Open in new window, and Close buttons.](./media/lab-navigate-finance-and-operations-apps-08.png)
 
 25. In the upper-right, select the **Help** question mark icon, and then select **Help**.
 
