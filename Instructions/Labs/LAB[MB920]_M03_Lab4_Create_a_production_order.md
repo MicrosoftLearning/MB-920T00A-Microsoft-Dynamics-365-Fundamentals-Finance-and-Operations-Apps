@@ -36,7 +36,7 @@ Production orders help to initiate the production process in Supply Chain Manage
 
 8.  Under BOM/ROUTE, the **BOM number** field automatically displays the number of any active BOM for the current item, but you can change the BOM for the production order by selecting an active BOM from the list of approved BOM versions. The **Route number** field automatically displays the number of any active Route for the current item, but you can change the Route for the production order by selecting an active Route from the list of approved Route versions.
 
-    ![Screenshot depicts the create production order page. The item number and delivery fields are highlighted.](../media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-40.png)
+    ![Screenshot depicts the create production order page. The item number and delivery fields are highlighted.](media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-40.png)
 
 9.  Select **Create**.
 
