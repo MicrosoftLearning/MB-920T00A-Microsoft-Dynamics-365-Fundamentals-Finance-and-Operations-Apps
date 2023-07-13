@@ -42,7 +42,7 @@ You need to create an assortment of related products that are assigned to a spec
 
 11. In **Choose organization nodes**, select the **Organization hierarchy** menu, and then select **Retail Stores by Type (Fabrikam)**.
 
-12. In the **AVAILABLE ORGANIZATION NODES** list, select **Online,** and then select the **Add** ![Picture 15](../media/04-learn-the-fundamentals-of-dynamics-365-commerce-17.png) icon to add it to the **SELECTED ORGANIZATION NODES**.
+12. In the **AVAILABLE ORGANIZATION NODES** list, select **Online,** and then select the **Add** ![Picture 15](./media/04-learn-the-fundamentals-of-dynamics-365-commerce-17.png) icon to add it to the **SELECTED ORGANIZATION NODES**.
 
     This adds to the parent node and all child nodes.
 
