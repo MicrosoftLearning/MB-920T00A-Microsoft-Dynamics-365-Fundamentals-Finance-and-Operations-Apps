@@ -29,7 +29,7 @@ lab:
 
 	- Name: **International call expense**
 
-	- Main expense type: **Expense**
+	- Main account type: **Expense**
 
 	- Main account category: **TANDEEXP**
 
