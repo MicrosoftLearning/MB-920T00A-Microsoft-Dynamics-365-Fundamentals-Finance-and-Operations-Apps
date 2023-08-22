@@ -23,7 +23,7 @@ lab:
 5.  If the current calendar year is already created, exit the **Fiscal calendars** page.
 6. If the current calendar year is not created, select the **New year** button in the action pane and enter the current year as it appears in the following screenshot. Select the **Create button** to create the current year calendar.
 
-![The screenshot depicts the how to create the new year in the fiscal calendar](../media/lab-create-a-main-account-04.png)
+![The screenshot depicts the how to create the new year in the fiscal calendar](./media/lab-create-a-main-account-04.png)
 
 
 4.  In the left navigation pane, select **Modules** > **General ledger** > **Chart of accounts** > **Accounts** > **Main accounts**.
