@@ -68,7 +68,7 @@ In Contoso Entertainment System USA (USMF), you plan to purchase a new configura
 
 21. In the navigation pane, select Modules, and then select Product information management. Then on the Products menu, select **Released** products.
 
-22. In the **Releases** **products** page, locate the new item **GTL007** in the grid. 
+22. In the **Released** **products** page, locate the new item **GTL007** in the grid. 
 
 23. Select the product link and navigate to the **Product details** page.
 
