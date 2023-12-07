@@ -103,7 +103,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 23. Many menus have sorting and filtering available. Use the filters to quickly locate the field content you're looking for.
 
-24. In the top right, notice the extra functionality. Move your mouse to each item, and review the feature callout. When complete, select the **Close** icon to close the page and return to the **Home** page.
+24. In the top right, notice the additional functions. Move the cursor over each item, and review the feature callout. When complete, select the **Back** icon at the other end of the toolbar to close the page and return to the previous page.
 
     ![Screenshot of the List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Document attachment Refresh page, Open in new window, and Close buttons.](./media/lab-navigate-finance-and-operations-apps-08.png)
 
