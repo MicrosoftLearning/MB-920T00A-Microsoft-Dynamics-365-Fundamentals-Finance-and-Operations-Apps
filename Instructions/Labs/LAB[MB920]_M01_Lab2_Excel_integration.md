@@ -3,7 +3,7 @@ lab:
     title: 'Lab 1.2: Excel integration'
     module: 'Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
-
+# Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps
 # Module 3: Describe reporting and integration capabilities in finance and operations apps
 
 ## Lab 1.2: Excel integration
