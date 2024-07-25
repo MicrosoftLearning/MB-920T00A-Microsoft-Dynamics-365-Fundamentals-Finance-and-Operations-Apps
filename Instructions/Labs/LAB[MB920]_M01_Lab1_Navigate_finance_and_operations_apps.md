@@ -1,12 +1,13 @@
 ---
 lab:
     title: 'Lab 1.1: Navigate finance and operations apps'
-    module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+    module: 'Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
 
-# Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps
+# Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps
+# Module 1: Describe the finance and operations apps
 
-## Lab 1: Navigate finance and operations apps
+## Lab 1.1: Navigate finance and operations apps
 
 ## Objective
 
