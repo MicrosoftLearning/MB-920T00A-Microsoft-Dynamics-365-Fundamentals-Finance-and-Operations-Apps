@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 1: Navigate finance and operations apps'
+    title: 'Lab 1.1: Navigate finance and operations apps'
     module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
 
@@ -47,12 +47,11 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 	- A calendar and work items assigned to you.
 
-	- The Search bar that is useful to quickly find what you need.
+	- The search bar that is useful to quickly find what you need.
 
 	- In the top right, you have the company you're currently working with, notifications, settings, and help links. Verify the company listed is **USMF**.
 
-    ![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](./media/lab-navigate-finance-and-operations-apps-04.png)
-
+    ![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg
 2.  In the top left, select the **Expand the navigation pane** hamburger menu.
 
 3.  The navigation pane is where you find collections for your **Favorites**, **Recent** items, **Workspaces**, and **Modules**.
@@ -69,7 +68,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 9.  On the **Home** page, in the top right, select the **Settings** icon, and then select **User options**.
 
-    ![Screenshot of the Settings icon and User options dropdown list.](./media/lab-navigate-finance-and-operations-apps-05.png)
+    ![Screenshot of the Settings icon and User options dropdown list.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
 
 10. On the **Options** page, use the tabs to configure different settings that apply to your account.
 
@@ -83,29 +82,29 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 15. On the **Home** page, in the top center of the page, select the **Search for a page** box.
 
-16. In the search box, search for **All vendors**.
+16. In the search box, search for **All customers**.
 
-17. Select **All vendors** Accounts payable > Vendors
+17. Select **Accounts receivables** > **Customers** > **All customers** page. 
 
-18. You may need to wait the first time you search for a page. There's a small spinning circle to the right of the search box while the search is processing.
+18. You may need to wait the first time you search for a page. A small circle spins to the right of the search box during the search process.
 
-19. The **All vendors** page is an example of a list page. The list page contains master data that can be read, created, deleted, and updated. There are more features using the ribbon above the list.
+19. 19.	The **All customers page** is an example of a list page. The list page contains master data that can be read, created, deleted, and updated. More features are available from the ribbon above the list.
 
-    ![Screenshot of the All vendor list with menu features highlighted.](./media/lab-navigate-finance-and-operations-apps-06.png)
+    ![Screenshot of the All vendor list with menu features highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
 
-20. Highlight one of the vendors from the list and, on the right, select the **Related information** menu, and review the additional information that is provided.
+20. Highlight one of the customers from the list and, on the right, select the **Related information** menu, and review the provided information.
 
-21. In the vendor list, select **Acme Office Supplies**.
+21. 21.	In the **Customers** list, select **Contoso Retail San Dieg**.
 
-22. Select the **Group** menu, and then select the **Vendor group** column title.
+22. Select the **Group** menu, and then select the **Customer group** column title.
 
-    ![Screenshot of the Vendor group column title for Acme Office Supplies.](./media/lab-navigate-finance-and-operations-apps-07.png)
+    ![Screenshot of the CUstomer group for ContosoRetail San Diego.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-16.svg)
 
 23. Many menus have sorting and filtering available. Use the filters to quickly locate the field content you're looking for.
 
 24. In the top right, notice the extra functionality. Move your mouse to each item, and review the feature callout. When complete, select the **Close** icon to close the page and return to the **Home** page.
 
-    ![Screenshot of the List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Document attachment Refresh page, Open in new window, and Close buttons.](./media/lab-navigate-finance-and-operations-apps-08.png)
+    ![Screenshot of the List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Document attachment Refresh page, Open in new window, and Close buttons.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-17.svg)
 
 25. In the upper-right, select the **Help** question mark icon, and then select **Help**.
 
