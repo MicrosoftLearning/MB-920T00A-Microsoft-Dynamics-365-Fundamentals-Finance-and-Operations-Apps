@@ -51,7 +51,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 	- In the top right, you have the company you're currently working with, notifications, settings, and help links. Verify the company listed is **USMF**.
 
-    ![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg
+    ![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
 2.  In the top left, select the **Expand the navigation pane** hamburger menu.
 
 3.  The navigation pane is where you find collections for your **Favorites**, **Recent** items, **Workspaces**, and **Modules**.
