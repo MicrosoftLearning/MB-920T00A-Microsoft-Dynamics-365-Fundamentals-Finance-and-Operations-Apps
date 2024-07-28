@@ -4,7 +4,7 @@ lab:
     module: 'Learning Path 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
 ---
 
-# Learning Path 2: Module 2: Learn the fundamentals of Microsoft Dynamics 365 Finance
+# Learning Path 2: Learn the fundamentals of Microsoft Dynamics 365 Finance
 # Module 2: Describe general ledgers
 
 ## Lab 2.1: Create a main account
