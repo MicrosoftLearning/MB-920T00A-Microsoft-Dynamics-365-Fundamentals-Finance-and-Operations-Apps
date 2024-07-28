@@ -1,9 +1,10 @@
 ---
 lab:
     title: 'Lab 3.1: Create a new product'
-    module: 'Learning Path 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+    module: 'Learning Path 3: Learn the fundamentals of Microsoft Dynamics 365 Supply Chain Management'
 ---
 
+# Learning Path 3: Learn the fundamentals of Microsoft Dynamics 365 Supply Chain Management
 # Module 2: Describe the sales and procurement process
 
 ## Lab 3.1: Create a new product
