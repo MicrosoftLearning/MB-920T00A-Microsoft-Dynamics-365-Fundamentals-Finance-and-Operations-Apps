@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 3.2: Create a production order'
-    module: 'Learning Path 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+    module: 'Learning Path 3: Learn the fundamentals of Microsoft Dynamics 365 Supply Chain Management'
 ---
 
-# Learning Path 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
-# Module 4: Describe the manufacturing proceds
+# Learning Path 3: Learn the fundamentals of Microsoft Dynamics 365 Supply Chain Management
+# Module 4: Describe the manufacturing process
 
 ## Lab 3.2: Create a production order
 
