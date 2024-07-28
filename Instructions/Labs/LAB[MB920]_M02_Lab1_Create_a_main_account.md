@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 1: Create a main account'
-    module: 'Learning Path 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
+    module: 'Learning Path 2: Learn the fundamentals of Microsoft Dynamics 365 Finance'
 ---
 
 # Learning Path 2: Learn the fundamentals of Microsoft Dynamics 365 Finance
