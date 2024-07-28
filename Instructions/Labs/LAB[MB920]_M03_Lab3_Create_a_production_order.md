@@ -1,42 +1,108 @@
 ---
 lab:
-    title: 'Lab 3: Create a production order'
-    module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+    title: 'Lab 3.2: Create a production order'
+    module: 'Learning Path 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
 ---
 
-# Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
+# Learning Path 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
+# Module 4: Describe the manufacturing proceds
 
-## Lab 3: Create a production order
+## Lab 3.2: Create a production order
 
 ## Objective
 
-Production orders help to initiate the production process in Supply Chain Management. In this lab, you become familiar with the user interface and functionality of the Production order form. Also, you learn how to create a production order by the end of the exercise.
+Production orders help to initiate the production process in Supply Chain Management. In this lab, you become familiar with the user interface and functionality of the Production order form. Also, you learn how to create and process a production order by the end of the exercise.
 
-## Lab Setup
+## Lab steps
 
-   - **Estimated Time**: 5 minutes
+1. On the Dynamics 365 **Supply Chain Management home** page, in the top right, verify you're working with the **USMF** company.
 
-## Instructions
+2. If necessary, select the company and from the menu, select **USMF**.
 
-1.  On the **Finance and Operations home** page, in the top right, verify you're working with the **USMF** company.
+3. In the left navigation pane, select **Modules** > **Production control** > **Production orders** > **All production orders**.
 
-2.  If necessary, select the company and from the menu, select **USMF**.
+4. On the top menu, select **New production order** and enter following data.
 
-3.  In the left navigation pane, select **Modules** > **Production control** > **Production orders** > **All production orders**.
+	- Item number: **D0002**
 
-4.  On the top menu, select **New production order**.
+	- Quantity: **10**
 
-5.  Under **IDENTIFICATION**, in the **Item number** box, enter **D0001**.
+	- Site: **1**
 
-6.  In the **Quantity** box, enter **20**.
+	- Warehouse: **11**
 
-7.  Under **PRODUCTION**, in the **Delivery** box, select a date one month from today's date.
+	- Delivery: [select a date one month from today's date]
 
-    The delivery date indicates when the production order should end to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date.
+	- BOM number: **D0002BOM**
 
-8.  Under BOM/ROUTE, the **BOM number** field automatically displays the number of any active BOM for the current item, but you can change the BOM for the production order by selecting an active BOM from the list of approved BOM versions. The **Route number** field automatically displays the number of any active Route for the current item, but you can change the Route for the production order by selecting an active Route from the list of approved Route versions.
+	- Route number: **000004**
 
-    ![Screenshot depicts the create production order page. The item number and delivery fields are highlighted.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-40.png)
+5. Select the **Create** button.
 
-9.  Select **Create**.
+A new production order is created for 10 quantities of the item D0002.
 
+6. Select **Production order (action pane menu) &gt; Process &gt; Estimate.**
+
+7. In the **Estimation** dialog box, select **Standard** in the **Profit-setting** field, select the **References field**, and select the **OK** button.
+
+The **Status** of the production order will change to **Estimated**.
+
+8. Select **Schedule (action pane menu) &gt; Production order &gt; Schedule operations.**
+
+9. In the **Operations scheduling** dialog box, select **Forward from today** in the **Scheduling direction** field and select the **OK** button.
+
+10. Select **View (action pane menu) &gt; Related information &gt; Capacity reservation**.
+
+11. Verify the new records created on the **Capacity reservation** page.
+
+12. Navigate back to the **All production orders** page. Note that the **Status** of the production order changes to **Scheduled**.
+
+13. Select **Production order (action pane menu) &gt; Process &gt; Release**.
+
+14. In the **Release** dialog box, select the **References field** and select the **OK** button.
+
+15. The **Status** of the production order will change to **Released**.
+
+16. Select **Production order (action pane menu) &gt; Process &gt; Start**.
+
+17. In the **Start** dialog box, select the **General** tab.
+
+18. On the **General** tab, enter the following.
+
+	- Date: **Today’s date**
+
+	- Quantity: **10**
+
+	- Start production: **YES**
+
+	- Post route card now: **NO**
+
+	- Post picking list now: **NO**
+
+19. Select the **OK** button.
+
+The **Status** of the production order changes to **Started**.
+
+20. Select **View (action pane menu) &gt; Journals &gt; Picking list**.
+
+A new picking list journal is created with three lines.
+
+21. Post the picking list journal.
+
+22. Navigate back to the **All production orders** page and select **View (action pane menu) &gt; Journals &gt; Route card**.
+
+A new route card journal is created with three lines.
+
+23. Select the **Operation completed** field in all three lines and post the route card journal.
+
+24. Navigate back to the **All production orders** page and select **Production orders (action pane menu) &gt; Process &gt; Report as finished**.
+
+25. In the **Report as finished** dialog box, enter **10** in the **Good quantity** field. Select the **End job** field and select **OK**.
+
+The **Status** of the production order changes to **Ended**. The stock of the item **D0002** increases by 10 in site 1 and warehouse 11.
+
+26. Select **Manage costs (action pane menu) &gt; Calculations &gt; View calculation details**.
+
+Note the final costing of the manufactured item on the **Overview costing** tab.
+
+ 
