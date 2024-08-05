@@ -21,11 +21,12 @@ In your organization, you plan to create a new item, which is a shirt. The shirt
 
 2. On the **Color group lines** FastTab, enter the following three records:
 
-| **Color**| **Color name** |
-| - |
-| Blue| Blue |
-| White| White |
-| Black| Black |
+	| **Color** | **Color name** |
+	|-----------|----------------|
+	| Blue      | Blue           |
+	| White     | White          |
+	| Black     | Black          |
+
 
 3. Save the records.
 
@@ -37,11 +38,12 @@ In your organization, you plan to create a new item, which is a shirt. The shirt
 
 5. In the **Size group lines** FastTab, enter the following three records
 
-| **Size**| **Size name** |
-| - |
-| S| Small |
-| M| Medium |
-| L| Large |
+	| **Size** | **Size name** |
+	|----------|---------------|
+	| S        | Small         |
+	| M        | Medium        |
+	| L        | Large         |
+
 
 6. Save the records
 
