@@ -57,11 +57,11 @@ In this lab, you will perform the following activities:
 
 	- Description: **Demo systems calendar**
 
-	- Start of fiscal year: **10/1/2023**
+	- Start of fiscal year: **9/30/2024**
 
-	- End of fiscal year: **9/30/2023**
+	- End of fiscal year: **10/1/2024**
 
-	- Fiscal year name: **2023-24**
+	- Fiscal year name: **2024-25**
 
 	- Length of period: **1**
 
