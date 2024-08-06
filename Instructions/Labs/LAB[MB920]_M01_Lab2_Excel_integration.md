@@ -22,9 +22,9 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 1.  Make sure you are in the **USMF** legal entity.
 
-2.  Navigate to **Procurement and sourcing** > **Setup** > **Vendors** > **Vendor groups**.
+2.  Navigate to module **Procurement and sourcing**> **Setup** > **Vendors** > **Vendor groups**.
 
-3.  Select **Open in Microsoft Office** > **Open in Excel**.
+3.  In the top right corner, select **Open in Microsoft Office** > **Open in Excel**.
 
 4.  Select **Vendor groups** (usmf) and download the Excel template.
 
@@ -32,7 +32,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
     All the existing data of the **Vendor group** table appears in the Excel spreadsheet.
 
-6.  Enter a new record.
+6.  Enter a new record in the first position of the new vendor group.
 
 7.  Enter **100** in the **Vendor group** field, **Insurance Vendor** in the **Description** field, and **Net10** in the **Terms of payment** field.
 
