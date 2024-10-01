@@ -27,10 +27,15 @@ Now that you've become familiar with finance and operations apps, take some time
 
     - Password: `pass@word1`
 
+1.  This lab has been configured to automatically provision your admin user account. Once complete, Edge will open automatically and prompt you to sign in and you can log in with the provided credentials found under the Resources tab. If this process fail please review the note below. Otherwise you may move forward with the lab. 
+
+    >On the Desktop, double click AdminUserProvisioning.
+In the Email Address field enter username from **Resources** and then click Submit.
+Wait for the prompt to advise Admin user successfully updated to… and then click OK.   
+
 1.  **Microsoft Edge** will open the Finance & Operations URL: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
 1.  Sign in using the Username and Password provided in the **Resources** menu. 
-
 
 ### Navigate finance and operations apps
 
@@ -50,7 +55,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 	- In the top right, you have the company you're currently working with, notifications, settings, and help links. Verify the company listed is **USMF**.
 
-    ![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
+    ![Screenshot of the Dynamics 365 Finance and Operations home page with areas highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
 2.  In the top left, select the **Expand the navigation pane** hamburger menu.
 
 3.  The navigation pane is where you find collections for your **Favorites**, **Recent** items, **Workspaces**, and **Modules**.
@@ -67,7 +72,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 9.  On the **Home** page, in the top right, select the **Settings** icon, and then select **User options**.
 
-    ![Screenshot of the Settings icon and User options dropdown list.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
+    ![Screenshot of the Settings icon and User options dropdown list.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
 
 10. On the **Options** page, use the tabs to configure different settings that apply to your account.
 
@@ -87,13 +92,15 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 18. You may need to wait the first time you search for a page. A small circle spins to the right of the search box during the search process.
 
-19. 19.	The **All customers page** is an example of a list page. The list page contains master data that can be read, created, deleted, and updated. More features are available from the ribbon above the list.
+19.	The **All customers page** is an example of a list page. The list page contains master data that can be read, created, deleted, and updated. More features are available from the ribbon above the list.
 
-    ![Screenshot of the All vendor list with menu features highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
+    ![Screenshot of the All vendor list with menu features highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
 
 20. Highlight one of the customers from the list and, on the right, select the **Related information** menu, and review the provided information.
 
-21. 21.	In the **Customers** list, select **Contoso Retail San Dieg**.
+    ![Screenshot of the All vendor list with menu features highlighted.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-19.png)
+
+21. In the **Customers** list, select **Contoso Retail San Diego**.
 
 22. Select the **Group** menu, and then select the **Customer group** column title.
 

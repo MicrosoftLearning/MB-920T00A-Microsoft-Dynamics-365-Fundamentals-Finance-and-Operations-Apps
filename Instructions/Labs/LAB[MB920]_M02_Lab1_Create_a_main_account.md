@@ -59,7 +59,7 @@ In this lab, you will perform the following activities:
 
 	- Start of fiscal year: **9/30/2024**
 
-	- End of fiscal year: **10/1/2024**
+	- End of fiscal year: **10/1/2025**
 
 	- Fiscal year name: **2024-25**
 
@@ -87,7 +87,7 @@ The system will generate 14 periods, including one opening and one closing perio
 
 	- Name: **Cash**
 
-	- Main expense type: **Balance sheet**
+	- Main account type: **Balance sheet**
 
 	- Main account category: **CASH**
 
@@ -99,7 +99,7 @@ The system will generate 14 periods, including one opening and one closing perio
 
 	- Name: **Revenue**
 
-	- Main expense type: **Revenue**
+	- Main account type: **Revenue**
 
 	- Main account category: **REV**
 
@@ -111,7 +111,7 @@ The system will generate 14 periods, including one opening and one closing perio
 
 	- Name: **Travel expense**
 
-	- Main expense type: **Expense**
+	- Main account type: **Expense**
 
 	- Main account category: **EXP**
 
@@ -125,7 +125,7 @@ The system will generate 14 periods, including one opening and one closing perio
 
 	- Name: **CDS_Training**
 
-3. In the action pane, select the New button followed by the Cost center operating unit type and enter following value:
+3. In the action pane, select the **New** button followed by the **Cost center operating** unit type and enter following value:
 
 	- Name: **CDS_Purchase**
 
@@ -179,7 +179,7 @@ The system will generate 14 periods, including one opening and one closing perio
 
 14. On the **Segments and allowed values** FastTab, select the **Add** button to add **Main Account range 6000..9999**.
 
-15. Select the **Segment** button on the **Segments and allowed values** FastTab
+15. Select the **Add Segment** button on the **Segments and allowed values** FastTab
 
 16. In the **Add segment** dialog, select **CostCenter** followed by the **Add segment** button.
 
@@ -193,7 +193,7 @@ The system will generate 14 periods, including one opening and one closing perio
 
 2. If necessary, select the company, and from the menu, select **CDS**.
 
-3. In the left navigation pane of Dynamics 365 Finance, select **Modules** > **General ledger &gt; Setup &gt; Ledger page** and configure the following:
+3. In the left navigation pane of Dynamics 365 Finance, select **Modules** > **General ledger &gt; Ledger setup &gt; Ledger** page and configure the following:
 
 	- Chart of accounts: **Demo systems**
 
