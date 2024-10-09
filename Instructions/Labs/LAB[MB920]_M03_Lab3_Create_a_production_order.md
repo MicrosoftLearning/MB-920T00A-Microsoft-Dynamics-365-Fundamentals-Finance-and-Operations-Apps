@@ -89,6 +89,8 @@ A new picking list journal is created with three lines.
 
 21. Post the picking list journal.
 
+If required, select **OK**  on Post journal window.
+
 22. Navigate back to the **All production orders** page and select **View (action pane menu) &gt; Journals &gt; Route card**.
 
 A new route card journal is created with three lines.
