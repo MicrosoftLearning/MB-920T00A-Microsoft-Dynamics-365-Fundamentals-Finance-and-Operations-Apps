@@ -209,6 +209,8 @@ The system will generate 14 periods, including one opening and one closing perio
 
 4. On the **Account structure** FastTab, select the **Add** button to add the account structure **CDS_BS**.
 
+> If Required, Select **Yes** for Adding an account structure.
+
 5. Add two more account structures: **CDS_Revenue** and **CDS_Expense**.
 
 This completes the basic configuration of the General ledger module. You can plan your journal configuration now to post journals. 
