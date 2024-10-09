@@ -112,9 +112,5 @@ Now that you have become familiar with finance and operations apps, take some ti
 
     ![Screenshot of the List page upper-right menu showing additional features for connecting to Power Apps, Office apps, Document attachment Refresh page, Open in new window, and Close buttons.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-17.svg)
 
-25. In the upper-right, select the **Help** question mark icon, and then select **Help**.
 
-26. Notice the help information is related to the current page.
-
-27. Try selecting a workspace tile, and then review the help information for that workspace. When complete, return to the **Home** page.
 
