@@ -101,7 +101,9 @@ Variants will be created on the Product variants page.
 
 32. Select the **Finish** button at the bottom of the page.
 
-16. In the navigation pane, select **Modules**, and then select **Product information management**. Then on the **Products** menu, select **Released products**.
+33. In the top right,switch to **USMF** as the legal entity.
+
+34. In the navigation pane, select **Modules**, and then select **Product information management**. Then on the **Products** menu, select **Released products**.
 
 33. On the **Release products** page, locate the new item **SH001** in the grid.
 
