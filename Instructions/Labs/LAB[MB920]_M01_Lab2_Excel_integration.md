@@ -28,7 +28,7 @@ Now that you have become familiar with finance and operations apps, take some ti
 
 4.  Select **Vendor groups** (usmf) and download the Excel template.
 
-5.  Save and then open the downloaded Excel template, allow it if needed, close activation, and select **Enable editing**. Trust this add-in, and then sign in (using your same credentials, if asked).
+5.  Save and then open the downloaded Excel template, allow it if needed, close activation, and select **Enable Editing**. Trust this add-in, and then sign in (using your same credentials, if asked).
 
     All the existing data of the **Vendor group** table appears in the Excel spreadsheet.
 

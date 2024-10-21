@@ -101,11 +101,13 @@ Variants will be created on the Product variants page.
 
 32. Select the **Finish** button at the bottom of the page.
 
-16. In the navigation pane, select **Modules**, and then select **Product information management**. Then on the **Products** menu, select **Released products**.
+33. In the top right,switch to **USMF** as the legal entity.
+
+34. In the navigation pane, select **Modules**, and then select **Product information management**. Then on the **Products** menu, select **Released products**.
 
 33. On the **Release products** page, locate the new item **SH001** in the grid.
 
-34. Select the product link and navigate to the **Product details** page.
+34. Select the product link and navigate to the **Released product details** page.
 
 35. On the **General** FastTab, enter the following:
 
@@ -137,7 +139,7 @@ Variants will be created on the Product variants page.
 
 40. On the **Manage costs** FastTab, enter the following:
 
-	- Item group: **audio**
+	- Item group: **Audio**
 
 41. To complete the configuration, select **Product** in the action pane. Select the **Validate** button under the **Maintain** group.
 
